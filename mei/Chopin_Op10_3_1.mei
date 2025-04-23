@@ -33,6 +33,9 @@
                   <staffGrp xml:id="ox4urrj">
                      <staffGrp xml:id="P1" bar.thru="true">
                         <grpSym xml:id="wlqbt4r" symbol="brace"/>
+                        <label>
+                           <rend fontsize="x-large" fontweight="bold">3.</rend>
+                        </label>
                         <instrDef xml:id="j12pgjmr" midi.channel="0" midi.instrnum="0" midi.volume="80%"/>
                         <staffDef xml:id="e7va2ey" lines="5" n="1" ppq="8">
                            <clef xml:id="f1t1orga" line="2" shape="G"/>
@@ -1331,9 +1334,6 @@
                            <note xml:id="nzzf2t81" dur="8" oct="2" pname="e"/>
                         </layer>
                      </staff>
-                     <dynm xml:id="y1m9v65l" place="between" staff="1 2" tstamp="1" vgrp="640">
-                        <rend xml:id="hdxq2xy" halign="left">pp</rend>
-                     </dynm>
                      <slur xml:id="v1yfi9mg" curvedir="above" endid="#zybwlzz" startid="#b5o2azw"/>
                      <dir xml:id="e1dn9259" place="between" staff="1 2" tstamp="1" vgrp="2180">
                         <rend xml:id="chqzwvv" fontstyle="italic">rallent.</rend>
