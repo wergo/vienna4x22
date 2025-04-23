@@ -18,7 +18,7 @@
                <name xml:id="nmmon9h">Verovio</name>
                <p xml:id="pvphzmt">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="aavxwor1" enddate="2025-04-23T21:26:06" startdate="2025-04-23T20:35:54" version="1.2.3">
+            <application xml:id="aavxwor1" enddate="2025-04-23T21:28:34" startdate="2025-04-23T20:35:54" version="1.2.3">
                <name xml:id="n758n1t1">mei-friend</name>
                <p xml:id="p4umz281">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -70,7 +70,6 @@
                            = 100
                         </rend>
                      </tempo>
-                     <slur xml:id="qoam2v5" curvedir="above" endid="#q5fj7x9" startid="#v1ed5gys"/>
                      <dynam xml:id="dd60mqt2" place="between" staff="1 2" startid="#v1ed5gys">p</dynam>
                   </measure>
                   <measure xml:id="x1wdn5w8" n="1">
@@ -126,7 +125,7 @@
                      </staff>
                      <hairpin xml:id="jw43q1e" form="cres" opening="1.6vu" place="below" staff="1" tstamp="1" tstamp2="0m+1.875" vgrp="670"/>
                      <tie xml:id="r1fl6rsk" curvedir="above" endid="#t11ouso" startid="#q5fj7x9"/>
-                     <slur xml:id="o1b5b47s" curvedir="below" endid="#g13lza01" startid="#v1b52xr1"/>
+                     <tie xml:id="o1b5b47s" curvedir="below" endid="#g13lza01" startid="#v1b52xr1"/>
                   </measure>
                   <measure xml:id="l1ch52xp" n="2">
                      <staff xml:id="u1mufcuz" n="1">
@@ -186,9 +185,10 @@
                         </layer>
                      </staff>
                      <hairpin xml:id="kw7500u" form="cres" opening="1.2vu" place="above" staff="1" tstamp="1.125" tstamp2="0m+1.5" vgrp="1"/>
-                     <slur xml:id="vr1p0xs" curvedir="above" endid="#p4phcf7" startid="#t11ouso"/>
                      <hairpin xml:id="i16fbkaz" form="dim" opening="1.2vu" place="above" staff="1" tstamp="1.625" tstamp2="0m+1.875" vgrp="1"/>
                      <tie xml:id="hkzov6s" curvedir="above" endid="#j1nb9524" startid="#iieyuj2"/>
+                     <slur xml:id="swqqpom1" endid="#r1a31dnp" staff="1" startid="#t11ouso"/>
+                     <slur xml:id="swqny6c1" endid="#p4phcf7" staff="1" startid="#fcknz4w"/>
                   </measure>
                   <measure xml:id="n13mz69w" n="3">
                      <staff xml:id="h182ffys" n="1">
@@ -241,12 +241,13 @@
                            <note xml:id="u1u91q2y" dur="4" dur.ppq="8" oct="1" pname="b" stem.dir="up"/>
                         </layer>
                      </staff>
-                     <slur xml:id="rdz2bpa" curvedir="above" endid="#n1rqsopu" startid="#j1nb9524"/>
                      <hairpin xml:id="rua2svo" form="cres" opening="1.2vu" place="above" staff="1" tstamp="1.125" tstamp2="0m+1.5" vgrp="2"/>
                      <hairpin xml:id="xzig3fz" form="dim" opening="1vu" place="above" staff="1" tstamp="1.625" tstamp2="0m+1.875" vgrp="2"/>
                      <hairpin xml:id="w1trbbhi" form="dim" opening="1.4vu" place="below" staff="1" tstamp="2" tstamp2="0m+2.99" vgrp="7"/>
                      <slur xml:id="smmln9g1" endid="#ckg5vp9" staff="1" startid="#xlmozo9"/>
                      <hairpin xml:id="hox3xov2" form="cres" staff="1" tstamp="1" tstamp2="1.75" vgrp="7"/>
+                     <slur xml:id="ssmxb1x1" endid="#wfh5lsi" staff="1" startid="#j1nb9524"/>
+                     <slur xml:id="syboafb1" endid="#n1rqsopu" staff="1" startid="#a1hjijbo"/>
                   </measure>
                   <measure xml:id="uiuhcw" n="4">
                      <staff xml:id="s1qj7q5e" n="1">
@@ -373,8 +374,9 @@
                         </layer>
                      </staff>
                      <hairpin xml:id="abtlgzz" form="cres" opening="0.8vu" place="above" staff="1" tstamp="1.125" tstamp2="0m+1.5" vgrp="6"/>
-                     <slur xml:id="ud0qjvd" curvedir="above" endid="#f10nkmp6" startid="#p1jcgqer"/>
                      <hairpin xml:id="f10dp6fb" form="dim" opening="1vu" place="above" staff="1" tstamp="1.625" tstamp2="0m+2" vgrp="6"/>
+                     <slur xml:id="s4vgvvu1" curvedir="above" endid="#obilo5j" staff="1" startid="#p1jcgqer"/>
+                     <slur xml:id="s38lgk51" curvedir="above" endid="#f10nkmp6" staff="1" startid="#ab9hd1y"/>
                   </measure>
                   <measure xml:id="z1fogxoy" n="6">
                      <staff xml:id="cbkvwc1" n="1">
@@ -485,10 +487,11 @@
                            <note xml:id="mnf7atp" dur="4" dur.ppq="8" oct="2" pname="b" stem.dir="up"/>
                         </layer>
                      </staff>
-                     <slur xml:id="dtozthp" curvedir="below" endid="#jx0txhp" startid="#jg9r84g"/>
                      <hairpin xml:id="j1w8489v" form="dim" opening="1.8vu" place="above" staff="1" tstamp="2.625" tstamp2="0m+2.875" vgrp="2110"/>
                      <slur xml:id="m1nmpwl0" curvedir="above" endid="#jg9r84g" startid="#jx0txhp"/>
                      <dir xml:id="d92n2wr2" staff="1" tstamp="1.75">stretto</dir>
+                     <slur xml:id="sdg0szd" curvedir="above" endid="#uiaq4kb" staff="1" startid="#jg9r84g"/>
+                     <tie xml:id="tvni0p9" endid="#jmsp9df" staff="1" startid="#uiaq4kb"/>
                   </measure>
                   <measure xml:id="yqdcqvl" n="8">
                      <staff xml:id="eiybflf" n="1">
@@ -544,7 +547,6 @@
                            <note xml:id="x1i2z7s2" dur="4" dur.ppq="8" oct="2" pname="b" stem.dir="up"/>
                         </layer>
                      </staff>
-                     <slur xml:id="eyz98m4" curvedir="below" endid="#vobqfi8" startid="#j1tgglv0"/>
                      <dir xml:id="zwen7dh" place="below" staff="1" tstamp="2" vgrp="2200">
                         ritenuto
                      </dir>
@@ -661,9 +663,10 @@
                         </layer>
                      </staff>
                      <hairpin xml:id="zzfy02" form="cres" opening="1.2vu" place="above" staff="1" tstamp="1.125" tstamp2="0m+1.5" vgrp="3"/>
-                     <slur xml:id="q1jxc0wk" curvedir="above" endid="#p8xamsu" startid="#bmnrsb8"/>
                      <hairpin xml:id="m1578vra" form="dim" opening="1.2vu" place="above" staff="1" tstamp="1.625" tstamp2="0m+1.99" vgrp="3"/>
                      <tie xml:id="j1i2xfx1" curvedir="above" endid="#f1r4txcr" startid="#lc67ler"/>
+                     <slur xml:id="s07a3a11" endid="#k8s30k0" staff="1" startid="#bmnrsb8"/>
+                     <slur xml:id="s8naj6w1" endid="#p8xamsu" staff="1" startid="#w1lkjut4"/>
                   </measure>
                   <measure xml:id="c24dlyl" n="11">
                      <staff xml:id="qyi0vh8" n="1">
@@ -715,11 +718,12 @@
                         </layer>
                      </staff>
                      <hairpin xml:id="r1lcjlke" form="cres" opening="1.2vu" place="above" staff="1" tstamp="1" tstamp2="0m+1.5" vgrp="4"/>
-                     <slur xml:id="i1moeyjo" curvedir="above" endid="#g1v7cwvt" startid="#f1r4txcr"/>
                      <hairpin xml:id="ss2q4uw" form="dim" opening="1vu" place="above" staff="1" tstamp="1.625" tstamp2="0m+1.875" vgrp="4"/>
                      <hairpin xml:id="wa4uq7w" form="cres" opening="1.8vu" place="above" staff="2" tstamp="1" tstamp2="0m+1.875" vgrp="2120"/>
                      <hairpin xml:id="h2ufh1f" form="dim" place="above" staff="1" tstamp="2" tstamp2="3"/>
                      <slur xml:id="s885plo2" endid="#zgv9za5" staff="1" startid="#z6xxf5s"/>
+                     <slur xml:id="sh6ran81" endid="#f1v42sb4" staff="1" startid="#f1r4txcr"/>
+                     <slur xml:id="sxgfa9w1" endid="#g1v7cwvt" staff="1" startid="#c1gosaw7"/>
                   </measure>
                   <measure xml:id="z9ve64d" n="12">
                      <staff xml:id="d1drad9f" n="1">
@@ -844,9 +848,10 @@
                      </staff>
                      <hairpin xml:id="n5mrtcd" form="cres" opening="0.8vu" place="above" staff="1" tstamp="1.125" tstamp2="0m+1.5" vgrp="5"/>
                      <hairpin xml:id="mt3wkgr" form="cres" opening="0.8vu" place="above" staff="1" tstamp="1.125" tstamp2="0m+1.5" vgrp="5"/>
-                     <slur xml:id="rr095qa" curvedir="above" endid="#vlanvc8" startid="#t194ymvo"/>
                      <hairpin xml:id="a10zkp5" form="dim" opening="1vu" place="above" staff="1" tstamp="1.625" tstamp2="0m+1.875" vgrp="5"/>
                      <hairpin xml:id="m17fy78v" form="dim" opening="1vu" place="above" staff="1" tstamp="1.625" tstamp2="0m+1.875" vgrp="5"/>
+                     <slur xml:id="sh2q1tn1" curvedir="above" endid="#djvkzpi" staff="1" startid="#t194ymvo"/>
+                     <slur xml:id="sr6lrre" curvedir="above" endid="#vlanvc8" staff="1" startid="#b10oaqp6"/>
                   </measure>
                   <measure xml:id="s1vdq8c3" n="14">
                      <staff xml:id="dip5p1p" n="1">
