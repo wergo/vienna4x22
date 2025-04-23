@@ -18,7 +18,7 @@
                <name xml:id="nmmon9h">Verovio</name>
                <p xml:id="pvphzmt">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="aavxwor1" enddate="2025-04-23T21:08:59" startdate="2025-04-23T20:35:54" version="1.2.3">
+            <application xml:id="aavxwor1" enddate="2025-04-23T21:26:06" startdate="2025-04-23T20:35:54" version="1.2.3">
                <name xml:id="n758n1t1">mei-friend</name>
                <p xml:id="p4umz281">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -64,7 +64,11 @@
                         legato
                      </dir>
                      <tempo xml:id="t1nykc0i" place="above" staff="1" tstamp="1" vgrp="2450">
-                        <rend xml:id="jqpl4mj" fontstyle="normal">Lento ma non troppo ( = 100)</rend>
+                        <rend xml:id="jqpl4mj" fontstyle="normal">Lento ma non troppo </rend>
+                        <rend xml:id="rgyjqsd" fontsize="80%" fontweight="normal">
+                           <symbol xml:id="suyswcs1" fontsize="75%" glyph.auth="smufl" glyph.name="metNote8thUp"/>
+                           = 100
+                        </rend>
                      </tempo>
                      <slur xml:id="qoam2v5" curvedir="above" endid="#q5fj7x9" startid="#v1ed5gys"/>
                      <dynam xml:id="dd60mqt2" place="between" staff="1 2" startid="#v1ed5gys">p</dynam>
@@ -993,8 +997,8 @@
                      </dir>
                      <slur xml:id="v1gcm9ws" curvedir="above" endid="#n7slvo0" startid="#b10sgqon"/>
                      <slur xml:id="b1ai291y" curvedir="above" endid="#x1pk72k6" startid="#uaec0q0"/>
-                     <dynam xml:id="a1gbelks" place="below" staff="1" tstamp="2.5" vgrp="920">
-                        <rend xml:id="o1wia0mv" fontstyle="italic">cresc.</rend>
+                     <dynam xml:id="a1gbelks" place="below" staff="1" tstamp="2.5" vgrp="1">
+                        cresc.
                      </dynam>
                      <slur xml:id="mpmh3g7" curvedir="above" endid="#d1lzux4y" startid="#gvjku71"/>
                   </measure>
@@ -1121,6 +1125,8 @@
                         <rend xml:id="g1jnnnmp" fontstyle="italic">con forza</rend>
                      </dir>
                      <slur xml:id="nhiyqca" curvedir="above" endid="#y10fhjqg" startid="#m78ubtu"/>
+                     <dir xml:id="dt4rz7a1" place="below" staff="1" startid="#m78ubtu" vgrp="1">e</dir>
+                     <dir xml:id="dcj7jq7" place="below" staff="1" startid="#xgp4fy8" vgrp="1">ritenuto</dir>
                   </measure>
                   <measure xml:id="e1c7g94q" n="17">
                      <staff xml:id="azcayua" n="1">
@@ -1168,7 +1174,6 @@
                         <rend xml:id="g13bec0a" fontstyle="italic">ten.</rend>
                      </dir>
                      <slur xml:id="y17kov9b" curvedir="above" endid="#ufru6r7" startid="#g89379h"/>
-                     <slur xml:id="mbedoem" curvedir="above" endid="#kskvfp1" startid="#g89379h"/>
                   </measure>
                   <measure xml:id="lhe6xif" n="18">
                      <staff xml:id="l1dcqrk6" n="1">
@@ -1211,12 +1216,15 @@
                               <note xml:id="bhrlm2l" accid.ges="s" dur="16" dur.ppq="2" oct="3" pname="g" stem.dir="down"/>
                            </beam>
                         </layer>
+                        <layer xml:id="lfxa5xh" n="7">
+                           <space xml:id="stbaz08" dots="1" dur="4"/>
+                           <note xml:id="nbyb9881" accid.ges="s" dur="4" oct="2" pname="g"/>
+                        </layer>
                      </staff>
                      <dir xml:id="l1pl1ymn" place="above" staff="1" tstamp="1" vgrp="2180">
                         <rend xml:id="cabvy6u" fontstyle="italic">ten.</rend>
                      </dir>
                      <slur xml:id="k6seh3" curvedir="above" endid="#l1ry00wh" startid="#kskvfp1"/>
-                     <slur xml:id="mbasqce" curvedir="above" endid="#h1rfqhas" startid="#l1ry00wh"/>
                      <dir xml:id="j1yi63fv" place="below" staff="1" tstamp="1" vgrp="960">
                         <rend xml:id="g121uogd" fontstyle="italic">sempre legato</rend>
                      </dir>
@@ -1263,6 +1271,10 @@
                               <note xml:id="kqo881e" dur="16" dur.ppq="2" oct="3" pname="e" stem.dir="down"/>
                            </beam>
                         </layer>
+                        <layer xml:id="ljj8uh31" n="7">
+                           <space xml:id="sme6zr6" dots="1" dur="4"/>
+                           <note xml:id="n3lqecg1" dur="4" oct="2" pname="e"/>
+                        </layer>
                      </staff>
                      <dir xml:id="smtyhpj" place="above" staff="1" tstamp="1" vgrp="2180">
                         <rend xml:id="cz2keda" fontstyle="italic">ten.</rend>
@@ -1271,7 +1283,6 @@
                      <dynam xml:id="tmbg1l3" place="below" staff="1" tstamp="2.25" vgrp="1010">
                         dim.
                      </dynam>
-                     <slur xml:id="b15chhgc" curvedir="above" endid="#b5o2azw" startid="#b1757x5h"/>
                   </measure>
                   <measure xml:id="g1x3owgv" n="20">
                      <staff xml:id="p1sjp8j" n="1">
@@ -1310,6 +1321,10 @@
                               <note xml:id="t1pehbye" dur="16" dur.ppq="2" oct="2" pname="b" stem.dir="down"/>
                            </beam>
                         </layer>
+                        <layer xml:id="l2e5tje" n="7">
+                           <space xml:id="sjr1z15" dots="1" dur="4"/>
+                           <note xml:id="nzzf2t81" dur="8" oct="2" pname="e"/>
+                        </layer>
                      </staff>
                      <dynm xml:id="y1m9v65l" place="between" staff="1 2" tstamp="1" vgrp="640">
                         <rend xml:id="hdxq2xy" halign="left">pp</rend>
@@ -1318,7 +1333,6 @@
                      <dir xml:id="e1dn9259" place="between" staff="1 2" tstamp="1" vgrp="2180">
                         <rend xml:id="chqzwvv" fontstyle="italic">rallent.</rend>
                      </dir>
-                     <pedal xml:id="k49mlq8" dir="down" place="below" staff="2" tstamp="1" vgrp="1080"/>
                      <dynam xml:id="dsz3vpr2" place="between" staff="1 2" startid="#p1p061iq">pp</dynam>
                      <tie xml:id="t3wc968" endid="#o6b8scw" staff="2" startid="#l1q5o7so"/>
                      <tie xml:id="tqj8yup2" endid="#kggucuo" staff="2" startid="#t1pehbye"/>
