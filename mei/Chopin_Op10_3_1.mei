@@ -52,7 +52,7 @@
                </scoreDef>
                <section xml:id="zqqfco9">
                   <pb xml:id="a1xzw8dc"/>
-                  <measure xml:id="z1npnl0c" n="0">
+                  <measure xml:id="z1npnl0c" metcon="false" n="0">
                      <staff xml:id="vm35i85" n="1">
                         <layer xml:id="pd9kfo6" n="1">
                            <note xml:id="v1ed5gys" dur="8" dur.ppq="4" oct="3" pname="b" stem.dir="up"/>
@@ -941,7 +941,7 @@
                      <staff xml:id="nbb9uqq" n="1">
                         <layer xml:id="qsgxw78" n="1">
                            <beam xml:id="u1gnh105">
-                              <note xml:id="b10sgqon" accid.ges="s" dur="16" dur.ppq="2" oct="5" pname="d" stem.dir="up">
+                              <note xml:id="b10sgqon" dur="16" dur.ppq="2" oct="5" pname="d" stem.dir="up">
                                  <accid xml:id="am0swkk2" accid="s"/>
                               </note>
                               <note xml:id="n7slvo0" dur="16" dur.ppq="2" oct="5" pname="e" stem.dir="up"/>
@@ -953,7 +953,7 @@
                            <beam xml:id="zevqsia">
                               <note xml:id="gvjku71" accid.ges="s" dur="16" dur.ppq="2" oct="5" pname="c" stem.dir="up"/>
                               <note xml:id="pxy7yi9" accid.ges="s" dur="16" dur.ppq="2" oct="5" pname="d" stem.dir="up"/>
-                              <note xml:id="vatt49g" dur="16" dur.ppq="2" oct="4" pname="b" stem.dir="up"/>
+                              <note xml:id="vatt49g" accid.ges="s" dur="16" dur.ppq="2" oct="4" pname="b" stem.dir="up"/>
                               <note xml:id="d1lzux4y" accid.ges="s" dur="16" dur.ppq="2" oct="5" pname="c" stem.dir="up"/>
                            </beam>
                         </layer>
@@ -1349,7 +1349,7 @@
                      <tie xml:id="t3wc968" endid="#o6b8scw" staff="2" startid="#l1q5o7so"/>
                      <tie xml:id="tqj8yup2" endid="#kggucuo" staff="2" startid="#t1pehbye"/>
                   </measure>
-                  <measure xml:id="ju70xpi" n="21" right="invis">
+                  <measure xml:id="ju70xpi" metcon="false" n="21" right="invis">
                      <staff xml:id="ltbre7e" n="1">
                         <layer xml:id="vbilzhi" n="1">
                            <beam xml:id="q1c7o10h">
