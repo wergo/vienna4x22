@@ -43,7 +43,7 @@
       <body>
          <mdiv xml:id="k1e5bomt">
             <score xml:id="n1lr1n2d">
-               <scoreDef xml:id="a11mc9uw">
+               <scoreDef xml:id="a11mc9uw" mm="144" mm.unit="4">
                   <staffGrp xml:id="rap5gcu">
                      <staffGrp xml:id="P1" bar.thru="true">
                         <grpSym xml:id="cvqkz2i" symbol="brace" />
@@ -63,19 +63,19 @@
                </scoreDef>
                <section xml:id="a1war58u">
                   <pb xml:id="s19t2m9q" />
-                  <measure xml:id="i15554j3" left="rptstart" n="1">
+                  <measure xml:id="i15554j3" left="rptstart" metcon="false" n="1">
                      <staff xml:id="m16xh2kk" n="1">
                         <layer xml:id="d1vexfux" n="1">
-                           <note xml:id="nclcy5z" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note xml:id="nclcy5z" dur="4" oct="5" pname="c" stem.dir="down"/>
                         </layer>
                      </staff>
                      <staff xml:id="ibfx1nt" n="2">
                         <layer xml:id="laa8t41" n="5">
-                           <rest xml:id="l1inqlm0" dur="4" />
+                           <rest xml:id="l1inqlm0" dur="4"/>
                         </layer>
                      </staff>
                      <dynam xml:id="p1kac7av" place="between" staff="1 2" tstamp="1" vgrp="1">mf</dynam>
-                     <tie xml:id="o18a40mc" startid="#nclcy5z" endid="#m15g197x" />
+                     <tie xml:id="o18a40mc" startid="#nclcy5z" endid="#m15g197x"/>
                   </measure>
                   <measure xml:id="iowjt4v" n="2">
                      <staff xml:id="n2w3g1y" n="1">
@@ -277,34 +277,34 @@
                      <slur xml:id="brhcq3k" startid="#yjeayog" endid="#onz2oho" curvedir="above" />
                      <slur xml:id="ykwvvc3" startid="#cf53q64" endid="#j1val3un" curvedir="above" />
                   </measure>
-                  <measure xml:id="p1u674se" right="rptend" n="9">
+                  <measure xml:id="p1u674se" metcon="false" n="9" right="rptend">
                      <staff xml:id="a1augjsq" n="1">
                         <layer xml:id="i1tcxsxj" n="1">
-                           <note xml:id="j1val3un" dur="2" oct="4" pname="a" stem.dir="up" accid.ges="f" />
+                           <note xml:id="j1val3un" dur="2" oct="4" pname="a" stem.dir="up" accid.ges="f"/>
                         </layer>
                      </staff>
                      <staff xml:id="s50fv0q" n="2">
                         <layer xml:id="lvma252" n="5">
                            <chord xml:id="zdh8b2r" dur="2" stem.dir="down">
-                              <note xml:id="g1d20t07" oct="4" pname="c" />
-                              <note xml:id="v854b7" oct="3" pname="a" accid.ges="f" />
+                              <note xml:id="g1d20t07" oct="4" pname="c"/>
+                              <note xml:id="v854b7" oct="3" pname="a" accid.ges="f"/>
                            </chord>
                         </layer>
                      </staff>
                   </measure>
                   <sb xml:id="qs06ddy" />
-                  <measure xml:id="dpe799b" n="10" left="rptstart">
+                  <measure xml:id="dpe799b" left="rptstart" metcon="false" n="10">
                      <staff xml:id="d1mk9k35" n="1">
                         <layer xml:id="b1tbdu02" n="1">
-                           <note xml:id="lcs78i7" dur="4" oct="5" pname="c" stem.dir="up" />
+                           <note xml:id="lcs78i7" dur="4" oct="5" pname="c" stem.dir="up"/>
                         </layer>
                         <layer xml:id="p4webp1" n="2">
-                           <note xml:id="p1nt2hna" dur="4" oct="4" pname="a" stem.dir="down" accid.ges="f" />
+                           <note xml:id="p1nt2hna" dur="4" oct="4" pname="a" stem.dir="down" accid.ges="f"/>
                         </layer>
                      </staff>
                      <staff xml:id="qndzrtw" n="2">
                         <layer xml:id="i1d9kt57" n="5">
-                           <rest xml:id="c1i0mo2h" dur="4" />
+                           <rest xml:id="c1i0mo2h" dur="4"/>
                         </layer>
                      </staff>
                      <dynam xml:id="r1u686cd" place="below" staff="1" tstamp="1" vgrp="710">p</dynam>
@@ -529,43 +529,43 @@
                         <dynam xml:id="qumxy3x" place="between" staff="1 2" tstamp="1" vgrp="690">p</dynam>
                      </measure>
                   <ending n="1.">
-                     <measure xml:id="e14bsmqr" right="rptend" n="18">
+                     <measure xml:id="e14bsmqr" metcon="false" n="18" right="rptend">
                         <staff xml:id="ow1jkab" n="1">
                            <layer xml:id="l1yia8yt" n="1">
                               <chord xml:id="f1ogbhax" dur="2" stem.dir="up">
-                                 <note xml:id="a18cb3of" oct="4" pname="a" accid.ges="f" />
-                                 <note xml:id="z87onh7" oct="4" pname="c" />
+                                 <note xml:id="a18cb3of" oct="4" pname="a" accid.ges="f"/>
+                                 <note xml:id="z87onh7" oct="4" pname="c"/>
                               </chord>
                            </layer>
                         </staff>
                         <staff xml:id="g1rxo6xu" n="2">
                            <layer xml:id="vy3gsrp" n="5">
                               <chord xml:id="mk6gxbn" dur="2" stem.dir="up">
-                                 <note xml:id="v1qbb8hp" oct="3" pname="e" accid.ges="f" />
-                                 <note xml:id="yg64q2o" oct="2" pname="a" accid.ges="f" />
+                                 <note xml:id="v1qbb8hp" oct="3" pname="e" accid.ges="f"/>
+                                 <note xml:id="yg64q2o" oct="2" pname="a" accid.ges="f"/>
                               </chord>
                            </layer>
                         </staff>
                      </measure>
                   </ending>
                   <ending n="2.">
-                     <measure xml:id="k1d3fcbd" right="end" n="19">
+                     <measure xml:id="k1d3fcbd" metcon="false" n="19" right="end">
                         <staff xml:id="g1qen7r4" n="1">
                            <layer xml:id="r1896o5d" n="1">
                               <chord xml:id="ddw9wpo" dur="4" stem.dir="up">
-                                 <note xml:id="e1y3rbg5" oct="4" pname="a" accid.ges="f" />
-                                 <note xml:id="p3v5474" oct="4" pname="c" />
+                                 <note xml:id="e1y3rbg5" oct="4" pname="a" accid.ges="f"/>
+                                 <note xml:id="p3v5474" oct="4" pname="c"/>
                               </chord>
-                              <rest xml:id="eafj08e" dur="8" />
+                              <rest xml:id="eafj08e" dur="8"/>
                            </layer>
                         </staff>
                         <staff xml:id="lpzqhhx" n="2">
                            <layer xml:id="n1d3wjox" n="5">
                               <chord xml:id="qod03kn" dur="4" stem.dir="up">
-                                 <note xml:id="z7all2t" oct="3" pname="e" accid.ges="f" />
-                                 <note xml:id="zrcu4gc" oct="2" pname="a" accid.ges="f" />
+                                 <note xml:id="z7all2t" oct="3" pname="e" accid.ges="f"/>
+                                 <note xml:id="zrcu4gc" oct="2" pname="a" accid.ges="f"/>
                               </chord>
-                              <rest xml:id="ig3y110" dur="8" />
+                              <rest xml:id="ig3y110" dur="8"/>
                            </layer>
                         </staff>
                      </measure>
