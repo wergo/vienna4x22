@@ -4,12 +4,26 @@
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
    <meiHead xml:id="m1jmd67d">
       <fileDesc xml:id="fnppgrz">
-         <titleStmt xml:id="t137g2y5">
-            <title/>
-            <respStmt/>
+           <titleStmt>
+            <title>Etude</title>
+            <title type="desc">Op. 10 No. 3</title>
+            <respStmt>
+               <persName role="composer">Frédéric Chopin</persName>
+            </respStmt>
          </titleStmt>
-         <pubStmt xml:id="p1lyu4ll">
-            <date isodate="2025-04-23" type="encoding-date">2025-04-23</date>
+         <pubStmt>
+            <date isodate="2025-04-24" type="encoding-date">2025-04-24</date>
+            <respStmt>
+               <persName xml:id="Werner_Goebl" role="encoder">Werner Goebl</persName>
+            </respStmt>
+            <publisher>
+               <corpName>Henle</corpName>
+               <address>
+                  <addrLine>Munich</addrLine>
+                  <addrLine>Germany</addrLine>
+               </address>
+               <date>1983</date>
+            </publisher>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="ec2ict1">

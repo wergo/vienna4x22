@@ -3,13 +3,27 @@
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
    <meiHead xml:id="mglw9l">
-      <fileDesc xml:id="f18jjypb">
-         <titleStmt xml:id="t1mani1f">
-            <title />
-            <respStmt />
+       <fileDesc xml:id="fnppgrz">
+           <titleStmt>
+            <title>Ballade</title>
+            <title type="desc">Op. 38</title>
+            <respStmt>
+               <persName role="composer">Frédéric Chopin</persName>
+            </respStmt>
          </titleStmt>
-         <pubStmt xml:id="pl4zmk8">
-            <date isodate="2025-04-23" type="encoding-date">2025-04-23</date>
+         <pubStmt>
+            <date isodate="2025-04-24" type="encoding-date">2025-04-24</date>
+            <respStmt>
+               <persName xml:id="Werner_Goebl" role="encoder">Werner Goebl</persName>
+            </respStmt>
+            <publisher>
+               <corpName>Henle</corpName>
+               <address>
+                  <addrLine>Munich</addrLine>
+                  <addrLine>Germany</addrLine>
+               </address>
+               <date>1983</date>
+            </publisher>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="e1q9ta90">

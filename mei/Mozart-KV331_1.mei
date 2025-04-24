@@ -3,12 +3,28 @@
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
    <meiHead xml:id="mqj84d2">
-      <fileDesc xml:id="f140nn0x">
-         <titleStmt xml:id="t12qk2y7">
-            <title/>
-            <respStmt/>
+       <fileDesc xml:id="fnppgrz">
+           <titleStmt>
+            <title>Sonate No. 11</title>
+            <title type="desc">KV. 331</title>
+            <respStmt>
+               <persName role="composer">Wolfgang Amadeus Mozart</persName>
+            </respStmt>
          </titleStmt>
-         <pubStmt xml:id="pxtuo8z"/>
+         <pubStmt>
+            <date isodate="2025-04-24" type="encoding-date">2025-04-24</date>
+            <respStmt>
+               <persName xml:id="Werner_Goebl" role="encoder">Werner Goebl</persName>
+            </respStmt>
+            <publisher>
+               <corpName>Breitkopf und Härtel</corpName>
+               <address>
+                  <addrLine>Leipzig</addrLine>
+                  <addrLine>Germany</addrLine>
+               </address>
+               <date>1983</date>
+            </publisher>
+         </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="ec2vp6c">
          <appInfo xml:id="axatgfy">
