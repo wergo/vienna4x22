@@ -1247,7 +1247,7 @@
                         </layer>
                         <layer xml:id="lfxa5xh" n="7">
                            <space xml:id="stbaz08" dots="1" dur="4"/>
-                           <note xml:id="nbyb9881" accid.ges="s" dur="4" oct="2" pname="g"/>
+                           <note xml:id="nbyb9881" accid.ges="s" dur="4" dur.ges="8" oct="2" pname="g"/>
                         </layer>
                      </staff>
                      <dir xml:id="l1pl1ymn" place="above" staff="1" tstamp="1" vgrp="2180">
@@ -1302,7 +1302,7 @@
                         </layer>
                         <layer xml:id="ljj8uh31" n="7">
                            <space xml:id="sme6zr6" dots="1" dur="4"/>
-                           <note xml:id="n3lqecg1" dur="4" oct="2" pname="e"/>
+                           <note xml:id="n3lqecg1" dur="4" dur.ges="8" oct="2" pname="e"/>
                         </layer>
                      </staff>
                      <dir xml:id="smtyhpj" place="above" staff="1" tstamp="1" vgrp="2180">
