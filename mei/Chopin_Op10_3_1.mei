@@ -37,12 +37,12 @@
                            <rend xml:id="rk5vc2r1" fontsize="x-large" fontweight="bold">3.</rend>
                         </label>
                         <instrDef xml:id="j12pgjmr" midi.channel="0" midi.instrnum="0" midi.volume="80%"/>
-                        <staffDef xml:id="e7va2ey" lines="5" n="1" ppq="8">
+                        <staffDef xml:id="e7va2ey" lines="5" n="1" >
                            <clef xml:id="f1t1orga" line="2" shape="G"/>
                            <keySig xml:id="d1df7bx8" mode="major" sig="4s"/>
                            <meterSig xml:id="rnxxtsv" count="2" unit="4"/>
                         </staffDef>
-                        <staffDef xml:id="s1pdv675" lines="5" n="2" ppq="8">
+                        <staffDef xml:id="s1pdv675" lines="5" n="2" >
                            <clef xml:id="k1sim6bm" line="4" shape="F"/>
                            <keySig xml:id="n19jlf72" mode="major" sig="4s"/>
                            <meterSig xml:id="rxirv0p" count="2" unit="4"/>
@@ -60,7 +60,7 @@
                      </staff>
                      <staff xml:id="ad98hi2" n="2">
                         <layer xml:id="wqjazhn" n="4">
-                           <rest xml:id="zwzp5qu" dur="8" dur.ppq="4"/>
+                           <rest xml:id="zwzp5qu" dur="8" />
                         </layer>
                      </staff>
                      <dir xml:id="o8p3pw" place="above" staff="1" tstamp="1" vgrp="2030">

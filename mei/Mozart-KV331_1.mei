@@ -31,12 +31,12 @@
                   <staffGrp xml:id="yx5i1b8">
                      <staffGrp xml:id="P1" bar.thru="true">
                         <grpSym xml:id="j1r4szp0" symbol="brace"/>
-                        <staffDef xml:id="x1ccdef2" lines="5" n="1" ppq="8">
+                        <staffDef xml:id="x1ccdef2" lines="5" n="1" >
                            <clef xml:id="cnwn63e" line="2" shape="G"/>
                            <keySig xml:id="takwtv" sig="3s"/>
                            <meterSig xml:id="bpxzrsv" count="6" form="norm" unit="8"/>
                         </staffDef>
-                        <staffDef xml:id="ro67em0" lines="5" n="2" ppq="8">
+                        <staffDef xml:id="ro67em0" lines="5" n="2" >
                            <clef xml:id="y6bon4o" line="4" shape="F"/>
                            <keySig xml:id="y1wwkzgm" sig="3s"/>
                            <meterSig xml:id="fx84bo9" count="6" form="norm" unit="8"/>
@@ -280,7 +280,7 @@
                               <note xml:id="n123nn45" oct="4" pname="e"/>
                               <note xml:id="h123cclt" accid.ges="s" oct="4" pname="c"/>
                            </chord>
-                           <rest xml:id="v1ki2dxj" dur="8" dur.ppq="4"/>
+                           <rest xml:id="v1ki2dxj" dur="8" />
                         </layer>
                      </staff>
                      <staff xml:id="z3t3010" n="2">
@@ -288,7 +288,7 @@
                            <note xml:id="yn42p7o" dur="4" oct="3" pname="e" stem.dir="down"/>
                            <note xml:id="lnt0s0a" dur="8" oct="2" pname="e" stem.dir="up"/>
                            <note xml:id="zczvoi1" dur="4" oct="2" pname="a" stem.dir="up"/>
-                           <rest xml:id="fsytdpq" dur="8" dur.ppq="4"/>
+                           <rest xml:id="fsytdpq" dur="8" />
                         </layer>
                      </staff>
                      <dynam xml:id="y1f1skux" place="between" staff="1 2" tstamp="1" vgrp="1">p</dynam>
@@ -387,12 +387,12 @@
                               <note xml:id="h801ppo" accid.ges="s" oct="4" pname="c"/>
                               <note xml:id="f1mege7h" oct="3" pname="a"/>
                            </chord>
-                           <rest xml:id="vcnslnl" dur="8" dur.ppq="4"/>
+                           <rest xml:id="vcnslnl" dur="8" />
                            <chord xml:id="ncww7v2" dur="4" stem.dir="down">
                               <note xml:id="m1eazp83" oct="4" pname="d"/>
                               <note xml:id="hvcq5y4" accid.ges="s" oct="3" pname="g"/>
                            </chord>
-                           <rest xml:id="n1gyrp80" dur="8" dur.ppq="4"/>
+                           <rest xml:id="n1gyrp80" dur="8" />
                         </layer>
                      </staff>
                      <dynam xml:id="g10vrk7w" place="below" staff="1" tstamp="1" vgrp="630">sf</dynam>
@@ -633,10 +633,10 @@
                            <note xml:id="od3yx2" dur="4" oct="4" pname="a" stem.dir="up"/>
                         </layer>
                         <layer xml:id="h1c3jgf0" n="2">
-                           <space xml:id="l1wvu0vt" dur="4" dur.ppq="8"/>
+                           <space xml:id="l1wvu0vt" dur="4" />
                            <note xml:id="l126c3go" accid.ges="s" dur="8" oct="4" pname="g" stem.dir="down"/>
                            <note xml:id="h146utvv" dur="4" oct="4" pname="a" stem.dir="down"/>
-                           <rest xml:id="y1cwsc8p" dur="8" dur.ppq="4"/>
+                           <rest xml:id="y1cwsc8p" dur="8" />
                         </layer>
                      </staff>
                      <staff xml:id="mfpf1ad" n="2">
@@ -653,7 +653,7 @@
                               <note xml:id="ebeyf0y" accid.ges="s" oct="4" pname="c"/>
                               <note xml:id="p1grfz8v" oct="3" pname="a"/>
                            </chord>
-                           <rest xml:id="z1jb0dsb" dur="8" dur.ppq="4"/>
+                           <rest xml:id="z1jb0dsb" dur="8" />
                         </layer>
                      </staff>
                      <slur xml:id="strxi3p2" endid="#d101kzqf" staff="1" startid="#s17tbkkh"/>
