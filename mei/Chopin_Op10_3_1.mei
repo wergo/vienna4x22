@@ -1367,8 +1367,8 @@
                      <staff xml:id="ltbre7e" n="1">
                         <layer xml:id="vbilzhi" n="1">
                            <beam xml:id="q1c7o10h">
-                              <note xml:id="j17mhwht" accid.ges="s" dur="16" grace="acc" oct="4" pname="g" stem.dir="up"/>
-                              <note xml:id="melix3a" accid.ges="s" dur="16" grace="acc" oct="4" pname="f" stem.dir="up"/>
+                              <note xml:id="j17mhwht" accid.ges="s" dur="16" grace="unacc" oct="4" pname="g" stem.dir="up"/>
+                              <note xml:id="melix3a" accid.ges="s" dur="16" grace="unacc" oct="4" pname="f" stem.dir="up"/>
                            </beam>
                            <chord xml:id="v1i9md1m" dur="4" stem.dir="up">
                               <note xml:id="zybwlzz" accid.ges="s" oct="3" pname="g" staff="2"/>
