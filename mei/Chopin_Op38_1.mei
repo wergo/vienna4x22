@@ -3,8 +3,8 @@
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
    <meiHead xml:id="mglw9l">
-       <fileDesc xml:id="fnppgrz">
-           <titleStmt>
+      <fileDesc xml:id="fnppgrz">
+         <titleStmt>
             <title>Ballade</title>
             <title type="desc">Op. 38</title>
             <respStmt>
@@ -31,6 +31,10 @@
             <application xml:id="a16ju7ep" isodate="2025-04-23T20:08:08" version="5.3.0-dev-6f9827e">
                <name xml:id="n14zqpun">Verovio</name>
                <p xml:id="p1kzsln0">Transcoded from MusicXML</p>
+            </application>
+            <application xml:id="a2qd2s5" enddate="2025-04-24T10:54:01" startdate="2025-04-24T10:49:58" version="1.2.4">
+               <name xml:id="nmm4s09">mei-friend</name>
+               <p xml:id="pxtdbao1">First edit by mei-friend 1.2.4, 3 April 2025.</p>
             </application>
          </appInfo>
       </encodingDesc>
@@ -79,11 +83,11 @@
                            <note xml:id="m7pdsnm" dur="8" oct="4" pname="c" stem.dir="down" />
                         </layer>
                      </staff>
-                     <dir xml:id="opib51q" place="below" staff="1" tstamp="1" vgrp="710">
-                        <rend xml:id="s7br6ex" fontstyle="italic">sotto voce</rend>
+                     <dir xml:id="opib51q" place="between" staff="1 2" tstamp="1" vgrp="710">
+                        sotto voce
                      </dir>
                      <slur xml:id="h1cvpefp" startid="#cvpornx" endid="#jztbypl" curvedir="above" />
-                     <pedal xml:id="m16894cq" staff="2" tstamp="1" dir="down" place="below" vgrp="790" />
+                     <pedal xml:id="m16894cq" dir="down" place="below" staff="2" tstamp="1" vgrp="1"/>
                      <slur xml:id="v1uu5hcp" startid="#v16toilm" endid="#n1ods38c" curvedir="below" />
                   </measure>
                   <measure xml:id="b1i4mlio" n="1">
@@ -145,6 +149,7 @@
                            </chord>
                         </layer>
                      </staff>
+                     <pedal xml:id="p2e1m5i2" dir="up" staff="2" startid="#u1740d2" vgrp="1"/>
                   </measure>
                   <measure xml:id="e2bzhul" n="3">
                      <staff xml:id="cswpfrj" n="1">
@@ -185,7 +190,6 @@
                            <note xml:id="h1t1aln6" dur="8" oct="3" pname="b" stem.dir="down" accid.ges="f" />
                         </layer>
                      </staff>
-                     <pedal xml:id="pacchu" staff="2" tstamp="2.9" dir="up" place="below" vgrp="810" />
                   </measure>
                   <measure xml:id="pldshc" n="4">
                      <staff xml:id="x357v7t" n="1">
@@ -267,6 +271,7 @@
                      </staff>
                      <slur xml:id="c164v08o" startid="#dgn0dmb" endid="#v1gez6h9" curvedir="above" />
                   </measure>
+                  <sb />
                   <measure xml:id="xh3sl7l" n="6">
                      <staff xml:id="rlaxtdj" n="1">
                         <layer xml:id="i1njntoe" n="1">
@@ -352,7 +357,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="o1g06d6s" />
                   <measure xml:id="cjl4ua5" n="8">
                      <staff xml:id="o12t8f3b" n="1">
                         <layer xml:id="s1awkwo5" n="1">
@@ -533,6 +537,7 @@
                         </layer>
                      </staff>
                   </measure>
+                  <sb />
                   <measure xml:id="d7wbs8b" n="12">
                      <staff xml:id="z9qng2p" n="1">
                         <layer xml:id="n9qfpwc" n="1">
@@ -775,8 +780,8 @@
                      </staff>
                      <hairpin xml:id="b16k513r" staff="1" tstamp="4" tstamp2="1m+6.25" form="dim" opening="3vu" place="below" vgrp="820" />
                      <slur xml:id="dhaqjyd" startid="#t1izql08" endid="#esvqtr" curvedir="above" />
-                     <slur xml:id="rpkfl3i" startid="#t1izql08" endid="#l1m4m0uw" curvedir="above" />
                      <slur xml:id="v9l8sc7" startid="#c1p17fzm" endid="#a89c9xx" curvedir="below" />
+                     <tie xml:id="tq5bp2n2" endid="#p9ljp1r" staff="1" startid="#t1izql08"/>
                   </measure>
                   <measure xml:id="w1e9tc53" n="18">
                      <staff xml:id="m3sa278" n="1">
@@ -799,7 +804,9 @@
                               <note xml:id="m1s80zuo" oct="4" pname="a" />
                            </chord>
                            <chord xml:id="i1ggf83j" dur="8" stem.dir="up">
-                              <note xml:id="u14f1fan" oct="3" pname="b" accid.ges="f" />
+                              <note xml:id="u14f1fan" oct="3" pname="b">
+                                 <accid xml:id="a0xdozp1" accid="n"/>
+                              </note>
                               <note xml:id="m1hf3dxs" oct="4" pname="e" />
                               <note xml:id="t9k7tkr" oct="4" pname="g">
                                  <accid xml:id="le5wybc" accid="s" />
@@ -1499,7 +1506,9 @@
                         <layer xml:id="mk3eut8" n="1">
                            <beam xml:id="my32887">
                               <note xml:id="gjocnh1" dots="1" dur="8" oct="5" pname="c" stem.dir="up" />
-                              <note xml:id="f17wbb0d" dur="16" oct="4" pname="b" stem.dir="up" accid.ges="f" />
+                              <note xml:id="f17wbb0d" accid.ges="f" dur="16" oct="4" pname="b" stem.dir="up">
+                                 <accid xml:id="aluxq5r1" accid="n"/>
+                              </note>
                               <note xml:id="o18xoco" dur="8" oct="4" pname="a" stem.dir="up" />
                            </beam>
                            <chord xml:id="jvg6yop" dur="4" stem.dir="up">
