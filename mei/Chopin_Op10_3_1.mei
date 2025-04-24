@@ -29,7 +29,7 @@
       <body xml:id="b2udxls2">
          <mdiv xml:id="k1fpptkk">
             <score xml:id="v1bu0qqa">
-               <scoreDef xml:id="u19f0coc" midi.bpm="96">
+               <scoreDef xml:id="u19f0coc">
                   <staffGrp xml:id="ox4urrj">
                      <staffGrp xml:id="P1" bar.thru="true">
                         <grpSym xml:id="wlqbt4r" symbol="brace"/>
@@ -66,7 +66,7 @@
                      <dir xml:id="o8p3pw" place="above" staff="1" tstamp="1" vgrp="2030">
                         legato
                      </dir>
-                     <tempo xml:id="t1nykc0i" place="above" staff="1" tstamp="1" vgrp="2450">
+                     <tempo xml:id="t1nykc0i" place="above" staff="1" tstamp="1" vgrp="2450" mm="100" mm.unit="8">
                         <rend xml:id="jqpl4mj" fontstyle="normal">Lento ma non troppo </rend>
                         <rend xml:id="rgyjqsd" fontsize="80%" fontweight="normal" valign="middle">
                            <symbol xml:id="suyswcs1" fontsize="80%" glyph.auth="smufl" glyph.name="metNote8thUp"/>
