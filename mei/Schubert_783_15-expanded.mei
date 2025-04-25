@@ -32,7 +32,7 @@
                <name xml:id="n12sjy3f">Verovio</name>
                <p xml:id="p15qyrq8">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="acvw28x2" enddate="2025-04-25T15:26:57" startdate="2025-04-23T20:21:59" version="1.2.4">
+            <application xml:id="acvw28x2" enddate="2025-04-25T15:30:41" startdate="2025-04-23T20:21:59" version="1.2.4">
                <name xml:id="n9gmjkq2">mei-friend</name>
                <p xml:id="pb5or161">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -1025,8 +1025,8 @@
                         <staff xml:id="g1qen7r4" n="1">
                            <layer xml:id="r1896o5d" n="1">
                               <chord xml:id="ddw9wpo" dur="4" stem.dir="up">
-                                 <note xml:id="e1y3rbg5" oct="2" pname="a" accid.ges="f" />
-                                 <note xml:id="p3v5474" oct="2" pname="c" />
+                                 <note xml:id="e1y3rbg5" oct="4" pname="a" accid.ges="f" />
+                                 <note xml:id="p3v5474" oct="4" pname="c" />
                               </chord>
                               <rest xml:id="eafj08e" dur="8" ploc="c" oloc="2" />
                            </layer>
@@ -1034,8 +1034,8 @@
                         <staff xml:id="lpzqhhx" n="2">
                            <layer xml:id="n1d3wjox" n="5">
                               <chord xml:id="qod03kn" dur="4" stem.dir="up">
-                                 <note xml:id="z7all2t" oct="1" pname="e" accid.ges="f" />
-                                 <note xml:id="zrcu4gc" oct="0" pname="a" accid.ges="f" />
+                                 <note xml:id="z7all2t" oct="3" pname="e" accid.ges="f" />
+                                 <note xml:id="zrcu4gc" oct="2" pname="a" accid.ges="f" />
                               </chord>
                               <rest xml:id="ig3y110" dur="8" ploc="c" oloc="2" />
                            </layer>
