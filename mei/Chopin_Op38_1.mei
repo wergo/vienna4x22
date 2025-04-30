@@ -1766,7 +1766,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <arpeg xml:id="kkf34tp" plist="#kc0oae8"/>
+                     <arpeg xml:id="kkf34tp" plist="#n41vru5 #kc0oae8"/>
                      <hairpin xml:id="p1v1bu2b" form="dim" opening="2.2vu" place="above" staff="1" tstamp="4.75" tstamp2="1m+1" vgrp="2120"/>
                   </measure>
                   <sb />
