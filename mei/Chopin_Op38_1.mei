@@ -32,7 +32,7 @@
                <name xml:id="n14zqpun">Verovio</name>
                <p xml:id="p1kzsln0">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a2qd2s5" enddate="2025-04-24T11:11:21" startdate="2025-04-24T10:49:58" version="1.2.4">
+            <application xml:id="a2qd2s5" enddate="2025-04-30T09:46:46" startdate="2025-04-24T10:49:58" version="1.2.4">
                <name xml:id="nmm4s09">mei-friend</name>
                <p xml:id="pxtdbao1">First edit by mei-friend 1.2.4, 3 April 2025.</p>
             </application>
@@ -369,7 +369,7 @@
                         </layer>
                         <layer xml:id="kvfwf2s" n="2">
                            <note xml:id="qalruze" dur="4" oct="4" pname="c" stem.dir="down"/>
-                           <note xml:id="tej3pb2" dur="8" oct="4" pname="d" stem.dir="down"/>
+                           <note xml:id="tej3pb2" dur="8" oct="4" pname="c" stem.dir="down"/>
                            <note xml:id="c1uwv9yq" dur="4" oct="4" pname="d" stem.dir="down"/>
                            <chord xml:id="x1676itv" dur="8" stem.dir="down">
                               <note xml:id="c1rrd2ty" oct="4" pname="c"/>
@@ -1394,7 +1394,7 @@
                         </layer>
                         <layer xml:id="soxv651" n="2">
                            <note xml:id="q13wk1z3" dur="4" oct="4" pname="c" stem.dir="down"/>
-                           <note xml:id="j1jcez0u" dur="8" oct="4" pname="d" stem.dir="down"/>
+                           <note xml:id="j1jcez0u" dur="8" oct="4" pname="c" stem.dir="down"/>
                            <note xml:id="r1n0fpt" dur="4" oct="4" pname="d" stem.dir="down"/>
                            <chord xml:id="x15n3i3e" dur="8" stem.dir="down">
                               <note xml:id="zltc7gp" oct="4" pname="c"/>
