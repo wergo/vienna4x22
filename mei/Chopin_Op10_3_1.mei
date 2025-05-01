@@ -508,7 +508,6 @@
                         </layer>
                      </staff>
                      <hairpin xml:id="j1w8489v" form="dim" opening="1.8vu" place="above" staff="1" tstamp="2.625" tstamp2="0m+2.875" vgrp="2110"/>
-                     <slur xml:id="m1nmpwl0" curvedir="above" endid="#jg9r84g" startid="#jx0txhp"/>
                      <dir xml:id="d92n2wr2" staff="1" tstamp="1.75">stretto</dir>
                      <slur xml:id="sdg0szd" curvedir="below" endid="#uiaq4kb" staff="1" startid="#jg9r84g"/>
                      <tie xml:id="tvni0p9" endid="#jmsp9df" staff="1" startid="#uiaq4kb"/>
