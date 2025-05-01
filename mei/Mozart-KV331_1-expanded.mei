@@ -631,7 +631,6 @@
                         <slur xml:id="q1vmbens" startid="#f1xrljqx" endid="#c1fesqyq" curvedir="below" />
                         <slur xml:id="x7m4coo" startid="#c1fesqyq" endid="#j1ielikd" curvedir="above" />
                         <slur xml:id="hlvkff8" startid="#fmiy73o" endid="#sftt4fl" curvedir="above" />
-                        <slur xml:id="sci2c0j2" staff="2" startid="#o6qzd2u" endid="#v7fd96i" />
                      </measure>
                      <measure xml:id="eqxb894" n="11">
                         <staff xml:id="azhe1tz" n="1">
@@ -998,7 +997,6 @@
                         <slur xml:id="q1vmbens-rend2" corresp="#q1vmbens-rend2" startid="#f1xrljqx-rend2" endid="#c1fesqyq-rend2" curvedir="below" />
                         <slur xml:id="x7m4coo-rend2" corresp="#x7m4coo-rend2" startid="#c1fesqyq-rend2" endid="#j1ielikd-rend2" curvedir="above" />
                         <slur xml:id="hlvkff8-rend2" corresp="#hlvkff8-rend2" startid="#fmiy73o-rend2" endid="#sftt4fl-rend2" curvedir="above" />
-                        <slur xml:id="sci2c0j2-rend2" corresp="#sci2c0j2-rend2" staff="2" startid="#o6qzd2u-rend2" endid="#v7fd96i-rend2" />
                      </measure>
                      <measure xml:id="eqxb894-rend2" n="11">
                         <staff xml:id="azhe1tz-rend2" n="1">

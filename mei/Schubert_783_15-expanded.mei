@@ -43,7 +43,7 @@
       <body>
          <mdiv xml:id="k1e5bomt">
             <score xml:id="n1lr1n2d">
-               <scoreDef xml:id="a11mc9uw" mm="184" mm.unit="4">
+               <scoreDef xml:id="a11mc9uw" mm="144" mm.unit="4">
                   <staffGrp xml:id="rap5gcu">
                      <staffGrp xml:id="P1" bar.thru="true">
                         <grpSym xml:id="cvqkz2i" symbol="brace" />
