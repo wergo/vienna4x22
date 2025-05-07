@@ -32,7 +32,7 @@
                <name xml:id="nmmon9h">Verovio</name>
                <p xml:id="pvphzmt">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="aavxwor1" enddate="2025-04-24T10:08:29" startdate="2025-04-23T20:35:54" version="1.2.4">
+            <application xml:id="aavxwor1" enddate="2025-05-07T16:22:42" startdate="2025-04-23T20:35:54" version="1.2.5">
                <name xml:id="n758n1t1">mei-friend</name>
                <p xml:id="p4umz281">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -1200,8 +1200,8 @@
                      <dir xml:id="a47hozl" place="above" staff="1" tstamp="1" vgrp="2350">
                         <rend xml:id="g13bec0a" fontstyle="italic">ten.</rend>
                      </dir>
-                     <slur xml:id="y17kov9b" curvedir="above" endid="#ufru6r7" startid="#g89379h"/>
                      <hairpin xml:id="hu3ls9b" form="dim" place="between" staff="1 2" tstamp="2" tstamp2="2.85"/>
+                     <tie xml:id="tlcesgw2" endid="#ufru6r7" staff="1" startid="#xnsqyn2"/>
                   </measure>
                   <measure xml:id="lhe6xif" n="18">
                      <staff xml:id="l1dcqrk6" n="1">
