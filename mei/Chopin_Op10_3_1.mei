@@ -167,7 +167,7 @@
                               <note xml:id="y1u7qjtv" accid.ges="s" dur="8" oct="4" pname="d" stem.dir="down"/>
                            </beam>
                         </layer>
-                        <layer xml:id="zz9m97n" n="6">
+                        <layer xml:id="zz9m97n" n="3">
                            <beam xml:id="ykx4xb3">
                               <note xml:id="vjyz370" dur="16" oct="3" pname="a" staff="2" stem.dir="up"/>
                               <note xml:id="djiypwu" dur="16" oct="3" pname="b" staff="2" stem.dir="up"/>
