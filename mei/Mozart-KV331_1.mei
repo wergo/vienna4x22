@@ -97,7 +97,7 @@
                         <slur xml:id="eb3xlyx" curvedir="above" endid="#xxj6h0t" startid="#osua7f1"/>
                         <slur xml:id="sorlhds2" endid="#w19iy8sz" staff="2" startid="#s1sijfr3"/>
                         <dynam xml:id="dcch4hk2" place="between" staff="1 2" startid="#osua7f1">p</dynam>
-                        <tempo xml:id="tn7b3dh" staff="1" startid="#osua7f1">Andante grazioso.</tempo>
+                        <tempo xml:id="tn7b3dh" staff="1" startid="#osua7f1" mm="226" mm.unit="8">Andante grazioso.</tempo>
                         <tempo xml:id="twpaijm2" mm="100" mm.unit="8" staff="1" tstamp="1">
                            <rend xml:id="r3o4le11" fontsize="larger" fontweight="bold">TEMA.</rend>
                         </tempo>
