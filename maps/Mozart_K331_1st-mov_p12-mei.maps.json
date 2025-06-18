@@ -1,2869 +1,2869 @@
 [
     {
         "xml_id": "osua7f1",
-        "obs_mean_onset": 1.438,
+        "obs_mean_onset": 0.0,
         "velocity": 88.0,
         "obs_num": 1.0
     },
     {
         "xml_id": "m1iic4ph",
-        "obs_mean_onset": 1.467,
+        "obs_mean_onset": 0.03020833333333317,
         "velocity": 72.0,
         "obs_num": 2.0
     },
     {
         "xml_id": "s1sijfr3",
-        "obs_mean_onset": 1.458,
+        "obs_mean_onset": 0.02083333333333326,
         "velocity": 73.0,
         "obs_num": 3.0
     },
     {
         "xml_id": "xxj6h0t",
-        "obs_mean_onset": 2.142,
+        "obs_mean_onset": 0.7333333333333334,
         "velocity": 89.0,
         "obs_num": 4.0
     },
     {
         "xml_id": "w19iy8sz",
-        "obs_mean_onset": 2.133,
+        "obs_mean_onset": 0.723958333333333,
         "velocity": 85.0,
         "obs_num": 5.0
     },
     {
         "xml_id": "nb6s2qa",
-        "obs_mean_onset": 2.322,
+        "obs_mean_onset": 0.9208333333333334,
         "velocity": 108.0,
         "obs_num": 6.0
     },
     {
         "xml_id": "l1ce128y",
-        "obs_mean_onset": 2.354,
+        "obs_mean_onset": 0.9541666666666666,
         "velocity": 78.0,
         "obs_num": 7.0
     },
     {
         "xml_id": "f4arfjw",
-        "obs_mean_onset": 2.344,
+        "obs_mean_onset": 0.9437500000000001,
         "velocity": 82.0,
         "obs_num": 8.0
     },
     {
         "xml_id": "tekenei",
-        "obs_mean_onset": 2.824,
+        "obs_mean_onset": 1.44375,
         "velocity": 102.0,
         "obs_num": 9.0
     },
     {
         "xml_id": "lmfmvb7",
-        "obs_mean_onset": 2.834,
+        "obs_mean_onset": 1.4541666666666667,
         "velocity": 60.0,
         "obs_num": 10.0
     },
     {
         "xml_id": "z118943v",
-        "obs_mean_onset": 2.853,
+        "obs_mean_onset": 1.473958333333333,
         "velocity": 81.0,
         "obs_num": 11.0
     },
     {
         "xml_id": "p16ne66j",
-        "obs_mean_onset": 3.664,
+        "obs_mean_onset": 2.31875,
         "velocity": 105.0,
         "obs_num": 12.0
     },
     {
         "xml_id": "o1f1v7mf",
-        "obs_mean_onset": 3.687,
+        "obs_mean_onset": 2.342708333333334,
         "velocity": 79.0,
         "obs_num": 13.0
     },
     {
         "xml_id": "nbetbsi",
-        "obs_mean_onset": 3.7,
+        "obs_mean_onset": 2.35625,
         "velocity": 86.0,
         "obs_num": 14.0
     },
     {
         "xml_id": "i102p278",
-        "obs_mean_onset": 4.171,
+        "obs_mean_onset": 2.846875,
         "velocity": 103.0,
         "obs_num": 15.0
     },
     {
         "xml_id": "j1dxh63i",
-        "obs_mean_onset": 4.206,
+        "obs_mean_onset": 2.883333333333333,
         "velocity": 80.0,
         "obs_num": 16.0
     },
     {
         "xml_id": "v11ugvbi",
-        "obs_mean_onset": 4.191,
+        "obs_mean_onset": 2.867708333333333,
         "velocity": 82.0,
         "obs_num": 17.0
     },
     {
         "xml_id": "r1n5x15c",
-        "obs_mean_onset": 4.819,
+        "obs_mean_onset": 3.5218750000000007,
         "velocity": 97.0,
         "obs_num": 18.0
     },
     {
         "xml_id": "r8ufohy",
-        "obs_mean_onset": 4.837,
+        "obs_mean_onset": 3.5406250000000005,
         "velocity": 86.0,
         "obs_num": 19.0
     },
     {
         "xml_id": "oxpt7ne",
-        "obs_mean_onset": 5.011,
+        "obs_mean_onset": 3.721875,
         "velocity": 98.0,
         "obs_num": 20.0
     },
     {
         "xml_id": "u1j5nlv3",
-        "obs_mean_onset": 5.048,
+        "obs_mean_onset": 3.760416666666667,
         "velocity": 89.0,
         "obs_num": 21.0
     },
     {
         "xml_id": "xtsyowo",
-        "obs_mean_onset": 5.034,
+        "obs_mean_onset": 3.7458333333333337,
         "velocity": 80.0,
         "obs_num": 22.0
     },
     {
         "xml_id": "y18ir80",
-        "obs_mean_onset": 5.509,
+        "obs_mean_onset": 4.2406250000000009,
         "velocity": 97.0,
         "obs_num": 23.0
     },
     {
         "xml_id": "rnxlnbc",
-        "obs_mean_onset": 5.51,
+        "obs_mean_onset": 4.241666666666667,
         "velocity": 78.0,
         "obs_num": 24.0
     },
     {
         "xml_id": "fmlozax",
-        "obs_mean_onset": 5.517,
+        "obs_mean_onset": 4.248958333333333,
         "velocity": 88.0,
         "obs_num": 25.0
     },
     {
         "xml_id": "j1v3tawo",
-        "obs_mean_onset": 6.386,
+        "obs_mean_onset": 5.154166666666667,
         "velocity": 103.0,
         "obs_num": 26.0
     },
     {
         "xml_id": "i1v68mzc",
-        "obs_mean_onset": 6.402,
+        "obs_mean_onset": 5.170833333333334,
         "velocity": 89.0,
         "obs_num": 27.0
     },
     {
         "xml_id": "y1bkv3ql",
-        "obs_mean_onset": 6.4,
+        "obs_mean_onset": 5.16875,
         "velocity": 91.0,
         "obs_num": 28.0
     },
     {
         "xml_id": "p1307lej",
-        "obs_mean_onset": 6.882,
+        "obs_mean_onset": 5.670833333333334,
         "velocity": 101.0,
         "obs_num": 29.0
     },
     {
         "xml_id": "p1q2w6kr",
-        "obs_mean_onset": 6.868,
+        "obs_mean_onset": 5.65625,
         "velocity": 66.0,
         "obs_num": 30.0
     },
     {
         "xml_id": "ueru56o",
-        "obs_mean_onset": 6.89,
+        "obs_mean_onset": 5.679166666666667,
         "velocity": 84.0,
         "obs_num": 31.0
     },
     {
         "xml_id": "bpjeaev",
-        "obs_mean_onset": 7.73,
+        "obs_mean_onset": 6.554166666666667,
         "velocity": 106.0,
         "obs_num": 32.0
     },
     {
         "xml_id": "iay8wto",
-        "obs_mean_onset": 7.734,
+        "obs_mean_onset": 6.558333333333334,
         "velocity": 89.0,
         "obs_num": 33.0
     },
     {
         "xml_id": "f1703r6z",
-        "obs_mean_onset": 7.759,
+        "obs_mean_onset": 6.584375,
         "velocity": 84.0,
         "obs_num": 34.0
     },
     {
         "xml_id": "sl0rfrs",
-        "obs_mean_onset": 8.199,
+        "obs_mean_onset": 7.042708333333334,
         "velocity": 109.0,
         "obs_num": 35.0
     },
     {
         "xml_id": "h8mc89u",
-        "obs_mean_onset": 8.203,
+        "obs_mean_onset": 7.046875000000002,
         "velocity": 83.0,
         "obs_num": 36.0
     },
     {
         "xml_id": "guyyzqm",
-        "obs_mean_onset": 8.209,
+        "obs_mean_onset": 7.053125000000001,
         "velocity": 89.0,
         "obs_num": 37.0
     },
     {
         "xml_id": "f94y7j3",
-        "obs_mean_onset": 8.972,
+        "obs_mean_onset": 7.847916666666666,
         "velocity": 113.0,
         "obs_num": 38.0
     },
     {
         "xml_id": "e1swbdfk",
-        "obs_mean_onset": 8.98,
+        "obs_mean_onset": 7.856250000000001,
         "velocity": 89.0,
         "obs_num": 39.0
     },
     {
         "xml_id": "s106m0ud",
-        "obs_mean_onset": 8.996,
+        "obs_mean_onset": 7.872916666666667,
         "velocity": 91.0,
         "obs_num": 40.0
     },
     {
         "xml_id": "j1q0vm0y",
-        "obs_mean_onset": 9.441,
+        "obs_mean_onset": 8.336458333333333,
         "velocity": 111.0,
         "obs_num": 41.0
     },
     {
         "xml_id": "p1nhrwsd",
-        "obs_mean_onset": 9.438,
+        "obs_mean_onset": 8.333333333333334,
         "velocity": 89.0,
         "obs_num": 42.0
     },
     {
         "xml_id": "grx2oyu",
-        "obs_mean_onset": 9.464,
+        "obs_mean_onset": 8.360416666666668,
         "velocity": 92.0,
         "obs_num": 43.0
     },
     {
         "xml_id": "eta1t7q",
-        "obs_mean_onset": 10.294,
+        "obs_mean_onset": 9.225000000000002,
         "velocity": 105.0,
         "obs_num": 44.0
     },
     {
         "xml_id": "etvyl4d",
-        "obs_mean_onset": 10.297,
+        "obs_mean_onset": 9.228125,
         "velocity": 104.0,
         "obs_num": 45.0
     },
     {
         "xml_id": "vbw3d2c",
-        "obs_mean_onset": 10.321,
+        "obs_mean_onset": 9.253125,
         "velocity": 81.0,
         "obs_num": 46.0
     },
     {
         "xml_id": "u9gkpkt",
-        "obs_mean_onset": 10.519,
+        "obs_mean_onset": 9.459375000000002,
         "velocity": 103.0,
         "obs_num": 47.0
     },
     {
         "xml_id": "ag9v84l",
-        "obs_mean_onset": 10.784,
+        "obs_mean_onset": 9.735416666666668,
         "velocity": 99.0,
         "obs_num": 48.0
     },
     {
         "xml_id": "ia10zff",
-        "obs_mean_onset": 10.788,
+        "obs_mean_onset": 9.739583333333334,
         "velocity": 97.0,
         "obs_num": 49.0
     },
     {
         "xml_id": "zz3l4iw",
-        "obs_mean_onset": 10.786,
+        "obs_mean_onset": 9.7375,
         "velocity": 87.0,
         "obs_num": 50.0
     },
     {
         "xml_id": "o1an3xxy",
-        "obs_mean_onset": 11.692,
+        "obs_mean_onset": 10.68125,
         "velocity": 86.0,
         "obs_num": 51.0
     },
     {
         "xml_id": "c1c41aq3",
-        "obs_mean_onset": 11.728,
+        "obs_mean_onset": 10.718750000000002,
         "velocity": 78.0,
         "obs_num": 52.0
     },
     {
         "xml_id": "q13de2k4",
-        "obs_mean_onset": 12.261,
+        "obs_mean_onset": 11.273958333333333,
         "velocity": 93.0,
         "obs_num": 53.0
     },
     {
         "xml_id": "s88cmut",
-        "obs_mean_onset": 12.321,
+        "obs_mean_onset": 11.336458333333335,
         "velocity": 80.0,
         "obs_num": 54.0
     },
     {
         "xml_id": "g1yzffc0",
-        "obs_mean_onset": 12.322,
+        "obs_mean_onset": 11.3375,
         "velocity": 66.0,
         "obs_num": 55.0
     },
     {
         "xml_id": "zr91spl",
-        "obs_mean_onset": 12.981,
+        "obs_mean_onset": 12.023958333333335,
         "velocity": 93.0,
         "obs_num": 56.0
     },
     {
         "xml_id": "z19i46j8",
-        "obs_mean_onset": 12.957,
+        "obs_mean_onset": 11.998958333333335,
         "velocity": 88.0,
         "obs_num": 57.0
     },
     {
         "xml_id": "w13z63rx",
-        "obs_mean_onset": 13.148,
+        "obs_mean_onset": 12.197916666666668,
         "velocity": 106.0,
         "obs_num": 58.0
     },
     {
         "xml_id": "pybcg20",
-        "obs_mean_onset": 13.166,
+        "obs_mean_onset": 12.216666666666667,
         "velocity": 87.0,
         "obs_num": 59.0
     },
     {
         "xml_id": "awoc594",
-        "obs_mean_onset": 13.177,
+        "obs_mean_onset": 12.228125,
         "velocity": 78.0,
         "obs_num": 60.0
     },
     {
         "xml_id": "h8m12o6",
-        "obs_mean_onset": 13.638,
+        "obs_mean_onset": 12.708333333333336,
         "velocity": 100.0,
         "obs_num": 61.0
     },
     {
         "xml_id": "k1uy4r9e",
-        "obs_mean_onset": 13.657,
+        "obs_mean_onset": 12.728125,
         "velocity": 73.0,
         "obs_num": 62.0
     },
     {
         "xml_id": "c141qqvf",
-        "obs_mean_onset": 13.683,
+        "obs_mean_onset": 12.755208333333336,
         "velocity": 79.0,
         "obs_num": 63.0
     },
     {
         "xml_id": "s6e9cfq",
-        "obs_mean_onset": 14.481,
+        "obs_mean_onset": 13.586458333333335,
         "velocity": 107.0,
         "obs_num": 64.0
     },
     {
         "xml_id": "cnlo5bm",
-        "obs_mean_onset": 14.496,
+        "obs_mean_onset": 13.602083333333335,
         "velocity": 88.0,
         "obs_num": 65.0
     },
     {
         "xml_id": "sby4l0a",
-        "obs_mean_onset": 14.512,
+        "obs_mean_onset": 13.61875,
         "velocity": 88.0,
         "obs_num": 66.0
     },
     {
         "xml_id": "y1rzh80z",
-        "obs_mean_onset": 14.984,
+        "obs_mean_onset": 14.110416666666668,
         "velocity": 104.0,
         "obs_num": 67.0
     },
     {
         "xml_id": "bn5r63r",
-        "obs_mean_onset": 15.002,
+        "obs_mean_onset": 14.129166666666667,
         "velocity": 87.0,
         "obs_num": 68.0
     },
     {
         "xml_id": "j14wtvag",
-        "obs_mean_onset": 15.022,
+        "obs_mean_onset": 14.15,
         "velocity": 76.0,
         "obs_num": 69.0
     },
     {
         "xml_id": "p8f6k2a",
-        "obs_mean_onset": 15.663,
+        "obs_mean_onset": 14.817708333333334,
         "velocity": 100.0,
         "obs_num": 70.0
     },
     {
         "xml_id": "k1ulwcdd",
-        "obs_mean_onset": 15.693,
+        "obs_mean_onset": 14.848958333333334,
         "velocity": 84.0,
         "obs_num": 71.0
     },
     {
         "xml_id": "a1qet116",
-        "obs_mean_onset": 15.842,
+        "obs_mean_onset": 15.004166666666669,
         "velocity": 104.0,
         "obs_num": 72.0
     },
     {
         "xml_id": "azq4osj",
-        "obs_mean_onset": 15.874,
+        "obs_mean_onset": 15.0375,
         "velocity": 89.0,
         "obs_num": 73.0
     },
     {
         "xml_id": "z1720xs3",
-        "obs_mean_onset": 15.862,
+        "obs_mean_onset": 15.025,
         "velocity": 55.0,
         "obs_num": 74.0
     },
     {
         "xml_id": "j1o5g4t3",
-        "obs_mean_onset": 16.339,
+        "obs_mean_onset": 15.521875,
         "velocity": 96.0,
         "obs_num": 75.0
     },
     {
         "xml_id": "n1akngcb",
-        "obs_mean_onset": 16.33,
+        "obs_mean_onset": 15.512500000000001,
         "velocity": 48.0,
         "obs_num": 76.0
     },
     {
         "xml_id": "v1ktpuwf",
-        "obs_mean_onset": 16.354,
+        "obs_mean_onset": 15.5375,
         "velocity": 80.0,
         "obs_num": 77.0
     },
     {
         "xml_id": "hghapwj",
-        "obs_mean_onset": 17.212,
+        "obs_mean_onset": 16.43125,
         "velocity": 101.0,
         "obs_num": 78.0
     },
     {
         "xml_id": "r4x570f",
-        "obs_mean_onset": 17.228,
+        "obs_mean_onset": 16.44791666666667,
         "velocity": 89.0,
         "obs_num": 79.0
     },
     {
         "xml_id": "ezti6rx",
-        "obs_mean_onset": 17.247,
+        "obs_mean_onset": 16.467708333333336,
         "velocity": 88.0,
         "obs_num": 80.0
     },
     {
         "xml_id": "vramq4e",
-        "obs_mean_onset": 17.738,
+        "obs_mean_onset": 16.97916666666667,
         "velocity": 106.0,
         "obs_num": 81.0
     },
     {
         "xml_id": "v1saxguz",
-        "obs_mean_onset": 17.743,
+        "obs_mean_onset": 16.984375,
         "velocity": 87.0,
         "obs_num": 82.0
     },
     {
         "xml_id": "h1h99oxb",
-        "obs_mean_onset": 17.763,
+        "obs_mean_onset": 17.005208333333337,
         "velocity": 83.0,
         "obs_num": 83.0
     },
     {
         "xml_id": "u1qoq67g",
-        "obs_mean_onset": 18.546,
+        "obs_mean_onset": 17.820833333333334,
         "velocity": 109.0,
         "obs_num": 84.0
     },
     {
         "xml_id": "x13bbwby",
-        "obs_mean_onset": 18.565,
+        "obs_mean_onset": 17.840625000000004,
         "velocity": 79.0,
         "obs_num": 85.0
     },
     {
         "xml_id": "u1owlnv6",
-        "obs_mean_onset": 18.576,
+        "obs_mean_onset": 17.852083333333334,
         "velocity": 90.0,
         "obs_num": 86.0
     },
     {
         "xml_id": "uf8uuqw",
-        "obs_mean_onset": 19.045,
+        "obs_mean_onset": 18.340625000000004,
         "velocity": 111.0,
         "obs_num": 87.0
     },
     {
         "xml_id": "t1e0r3ms",
-        "obs_mean_onset": 19.039,
+        "obs_mean_onset": 18.334375,
         "velocity": 87.0,
         "obs_num": 88.0
     },
     {
         "xml_id": "z15cn1zd",
-        "obs_mean_onset": 19.065,
+        "obs_mean_onset": 18.36145833333333,
         "velocity": 94.0,
         "obs_num": 89.0
     },
     {
         "xml_id": "xvmnibx",
-        "obs_mean_onset": 19.923,
+        "obs_mean_onset": 19.255208333333337,
         "velocity": 107.0,
         "obs_num": 90.0
     },
     {
         "xml_id": "mup2knp",
-        "obs_mean_onset": 19.929,
+        "obs_mean_onset": 19.26145833333333,
         "velocity": 105.0,
         "obs_num": 91.0
     },
     {
         "xml_id": "l1y3ige8",
-        "obs_mean_onset": 19.924,
+        "obs_mean_onset": 19.25625,
         "velocity": 104.0,
         "obs_num": 92.0
     },
     {
         "xml_id": "uvzahtw",
-        "obs_mean_onset": 19.951,
+        "obs_mean_onset": 19.284375000000006,
         "velocity": 87.0,
         "obs_num": 93.0
     },
     {
         "xml_id": "c1nxj8k8",
-        "obs_mean_onset": 20.452,
+        "obs_mean_onset": 19.80625,
         "velocity": 100.0,
         "obs_num": 94.0
     },
     {
         "xml_id": "kjliwmx",
-        "obs_mean_onset": 20.461,
+        "obs_mean_onset": 19.815625000000006,
         "velocity": 95.0,
         "obs_num": 95.0
     },
     {
         "xml_id": "k1jahyja",
-        "obs_mean_onset": 20.476,
+        "obs_mean_onset": 19.831250000000006,
         "velocity": 84.0,
         "obs_num": 96.0
     },
     {
         "xml_id": "yn42p7o",
-        "obs_mean_onset": 20.481,
+        "obs_mean_onset": 19.836458333333334,
         "velocity": 78.0,
         "obs_num": 97.0
     },
     {
         "xml_id": "ypdbd1l",
-        "obs_mean_onset": 21.349,
+        "obs_mean_onset": 20.740625,
         "velocity": 86.0,
         "obs_num": 98.0
     },
     {
         "xml_id": "p1vj0ldy",
-        "obs_mean_onset": 21.356,
+        "obs_mean_onset": 20.74791666666667,
         "velocity": 81.0,
         "obs_num": 99.0
     },
     {
         "xml_id": "k16sfze5",
-        "obs_mean_onset": 21.356,
+        "obs_mean_onset": 20.74791666666667,
         "velocity": 81.0,
         "obs_num": 100.0
     },
     {
         "xml_id": "lnt0s0a",
-        "obs_mean_onset": 21.364,
+        "obs_mean_onset": 20.75625,
         "velocity": 67.0,
         "obs_num": 101.0
     },
     {
         "xml_id": "puro2d5",
-        "obs_mean_onset": 21.948,
+        "obs_mean_onset": 21.364583333333337,
         "velocity": 84.0,
         "obs_num": 102.0
     },
     {
         "xml_id": "n123nn45",
-        "obs_mean_onset": 21.98,
+        "obs_mean_onset": 21.397916666666668,
         "velocity": 85.0,
         "obs_num": 103.0
     },
     {
         "xml_id": "h123cclt",
-        "obs_mean_onset": 22.01,
+        "obs_mean_onset": 21.429166666666668,
         "velocity": 77.0,
         "obs_num": 104.0
     },
     {
         "xml_id": "zczvoi1",
-        "obs_mean_onset": 21.988,
+        "obs_mean_onset": 21.40625,
         "velocity": 79.0,
         "obs_num": 105.0
     },
     {
         "xml_id": "osua7f1-rend2",
-        "obs_mean_onset": 23.914,
+        "obs_mean_onset": 23.4125,
         "velocity": 87.0,
         "obs_num": 106.0
     },
     {
         "xml_id": "m1iic4ph-rend2",
-        "obs_mean_onset": 23.929,
+        "obs_mean_onset": 23.428125,
         "velocity": 73.0,
         "obs_num": 107.0
     },
     {
         "xml_id": "s1sijfr3-rend2",
-        "obs_mean_onset": 23.94,
+        "obs_mean_onset": 23.43958333333333,
         "velocity": 73.0,
         "obs_num": 108.0
     },
     {
         "xml_id": "xxj6h0t-rend2",
-        "obs_mean_onset": 24.664,
+        "obs_mean_onset": 24.19375,
         "velocity": 87.0,
         "obs_num": 109.0
     },
     {
         "xml_id": "w19iy8sz-rend2",
-        "obs_mean_onset": 24.667,
+        "obs_mean_onset": 24.196875,
         "velocity": 79.0,
         "obs_num": 110.0
     },
     {
         "xml_id": "nb6s2qa-rend2",
-        "obs_mean_onset": 24.829,
+        "obs_mean_onset": 24.365625,
         "velocity": 100.0,
         "obs_num": 111.0
     },
     {
         "xml_id": "l1ce128y-rend2",
-        "obs_mean_onset": 24.854,
+        "obs_mean_onset": 24.391666666666667,
         "velocity": 77.0,
         "obs_num": 112.0
     },
     {
         "xml_id": "f4arfjw-rend2",
-        "obs_mean_onset": 24.859,
+        "obs_mean_onset": 24.396875,
         "velocity": 88.0,
         "obs_num": 113.0
     },
     {
         "xml_id": "tekenei-rend2",
-        "obs_mean_onset": 25.371,
+        "obs_mean_onset": 24.93020833333334,
         "velocity": 101.0,
         "obs_num": 114.0
     },
     {
         "xml_id": "lmfmvb7-rend2",
-        "obs_mean_onset": 25.392,
+        "obs_mean_onset": 24.952083333333336,
         "velocity": 60.0,
         "obs_num": 115.0
     },
     {
         "xml_id": "z118943v-rend2",
-        "obs_mean_onset": 25.406,
+        "obs_mean_onset": 24.96666666666667,
         "velocity": 71.0,
         "obs_num": 116.0
     },
     {
         "xml_id": "p16ne66j-rend2",
-        "obs_mean_onset": 26.254,
+        "obs_mean_onset": 25.85,
         "velocity": 104.0,
         "obs_num": 117.0
     },
     {
         "xml_id": "o1f1v7mf-rend2",
-        "obs_mean_onset": 26.288,
+        "obs_mean_onset": 25.88541666666667,
         "velocity": 85.0,
         "obs_num": 118.0
     },
     {
         "xml_id": "nbetbsi-rend2",
-        "obs_mean_onset": 26.289,
+        "obs_mean_onset": 25.886458333333338,
         "velocity": 83.0,
         "obs_num": 119.0
     },
     {
         "xml_id": "i102p278-rend2",
-        "obs_mean_onset": 26.776,
+        "obs_mean_onset": 26.393750000000006,
         "velocity": 103.0,
         "obs_num": 120.0
     },
     {
         "xml_id": "j1dxh63i-rend2",
-        "obs_mean_onset": 26.799,
+        "obs_mean_onset": 26.417708333333338,
         "velocity": 84.0,
         "obs_num": 121.0
     },
     {
         "xml_id": "v11ugvbi-rend2",
-        "obs_mean_onset": 26.798,
+        "obs_mean_onset": 26.41666666666667,
         "velocity": 70.0,
         "obs_num": 122.0
     },
     {
         "xml_id": "r1n5x15c-rend2",
-        "obs_mean_onset": 27.482,
+        "obs_mean_onset": 27.12916666666667,
         "velocity": 98.0,
         "obs_num": 123.0
     },
     {
         "xml_id": "r8ufohy-rend2",
-        "obs_mean_onset": 27.512,
+        "obs_mean_onset": 27.16041666666667,
         "velocity": 92.0,
         "obs_num": 124.0
     },
     {
         "xml_id": "oxpt7ne-rend2",
-        "obs_mean_onset": 27.68,
+        "obs_mean_onset": 27.335416666666668,
         "velocity": 101.0,
         "obs_num": 125.0
     },
     {
         "xml_id": "u1j5nlv3-rend2",
-        "obs_mean_onset": 27.69,
+        "obs_mean_onset": 27.34583333333334,
         "velocity": 96.0,
         "obs_num": 126.0
     },
     {
         "xml_id": "xtsyowo-rend2",
-        "obs_mean_onset": 27.699,
+        "obs_mean_onset": 27.355208333333338,
         "velocity": 92.0,
         "obs_num": 127.0
     },
     {
         "xml_id": "y18ir80-rend2",
-        "obs_mean_onset": 28.198,
+        "obs_mean_onset": 27.875,
         "velocity": 102.0,
         "obs_num": 128.0
     },
     {
         "xml_id": "rnxlnbc-rend2",
-        "obs_mean_onset": 28.189,
+        "obs_mean_onset": 27.865625,
         "velocity": 74.0,
         "obs_num": 129.0
     },
     {
         "xml_id": "fmlozax-rend2",
-        "obs_mean_onset": 28.226,
+        "obs_mean_onset": 27.90416666666667,
         "velocity": 82.0,
         "obs_num": 130.0
     },
     {
         "xml_id": "j1v3tawo-rend2",
-        "obs_mean_onset": 29.052,
+        "obs_mean_onset": 28.764583333333336,
         "velocity": 103.0,
         "obs_num": 131.0
     },
     {
         "xml_id": "i1v68mzc-rend2",
-        "obs_mean_onset": 29.062,
+        "obs_mean_onset": 28.775,
         "velocity": 80.0,
         "obs_num": 132.0
     },
     {
         "xml_id": "y1bkv3ql-rend2",
-        "obs_mean_onset": 29.085,
+        "obs_mean_onset": 28.79895833333334,
         "velocity": 79.0,
         "obs_num": 133.0
     },
     {
         "xml_id": "p1307lej-rend2",
-        "obs_mean_onset": 29.614,
+        "obs_mean_onset": 29.35,
         "velocity": 96.0,
         "obs_num": 134.0
     },
     {
         "xml_id": "p1q2w6kr-rend2",
-        "obs_mean_onset": 29.601,
+        "obs_mean_onset": 29.33645833333334,
         "velocity": 75.0,
         "obs_num": 135.0
     },
     {
         "xml_id": "ueru56o-rend2",
-        "obs_mean_onset": 29.659,
+        "obs_mean_onset": 29.396875,
         "velocity": 78.0,
         "obs_num": 136.0
     },
     {
         "xml_id": "bpjeaev-rend2",
-        "obs_mean_onset": 30.472,
+        "obs_mean_onset": 30.24375,
         "velocity": 105.0,
         "obs_num": 137.0
     },
     {
         "xml_id": "iay8wto-rend2",
-        "obs_mean_onset": 30.487,
+        "obs_mean_onset": 30.259375,
         "velocity": 94.0,
         "obs_num": 138.0
     },
     {
         "xml_id": "f1703r6z-rend2",
-        "obs_mean_onset": 30.514,
+        "obs_mean_onset": 30.2875,
         "velocity": 87.0,
         "obs_num": 139.0
     },
     {
         "xml_id": "sl0rfrs-rend2",
-        "obs_mean_onset": 30.969,
+        "obs_mean_onset": 30.761458333333338,
         "velocity": 109.0,
         "obs_num": 140.0
     },
     {
         "xml_id": "h8mc89u-rend2",
-        "obs_mean_onset": 30.982,
+        "obs_mean_onset": 30.775,
         "velocity": 91.0,
         "obs_num": 141.0
     },
     {
         "xml_id": "guyyzqm-rend2",
-        "obs_mean_onset": 30.973,
+        "obs_mean_onset": 30.765625,
         "velocity": 97.0,
         "obs_num": 142.0
     },
     {
         "xml_id": "f94y7j3-rend2",
-        "obs_mean_onset": 31.761,
+        "obs_mean_onset": 31.586458333333334,
         "velocity": 112.0,
         "obs_num": 143.0
     },
     {
         "xml_id": "e1swbdfk-rend2",
-        "obs_mean_onset": 31.768,
+        "obs_mean_onset": 31.59375,
         "velocity": 95.0,
         "obs_num": 144.0
     },
     {
         "xml_id": "s106m0ud-rend2",
-        "obs_mean_onset": 31.783,
+        "obs_mean_onset": 31.609375,
         "velocity": 91.0,
         "obs_num": 145.0
     },
     {
         "xml_id": "j1q0vm0y-rend2",
-        "obs_mean_onset": 32.247,
+        "obs_mean_onset": 32.092708333333337,
         "velocity": 112.0,
         "obs_num": 146.0
     },
     {
         "xml_id": "p1nhrwsd-rend2",
-        "obs_mean_onset": 32.248,
+        "obs_mean_onset": 32.09375,
         "velocity": 87.0,
         "obs_num": 147.0
     },
     {
         "xml_id": "grx2oyu-rend2",
-        "obs_mean_onset": 32.275,
+        "obs_mean_onset": 32.121875,
         "velocity": 95.0,
         "obs_num": 148.0
     },
     {
         "xml_id": "eta1t7q-rend2",
-        "obs_mean_onset": 33.066,
+        "obs_mean_onset": 32.94583333333333,
         "velocity": 105.0,
         "obs_num": 149.0
     },
     {
         "xml_id": "etvyl4d-rend2",
-        "obs_mean_onset": 33.063,
+        "obs_mean_onset": 32.94270833333333,
         "velocity": 106.0,
         "obs_num": 150.0
     },
     {
         "xml_id": "vbw3d2c-rend2",
-        "obs_mean_onset": 33.072,
+        "obs_mean_onset": 32.952083333333337,
         "velocity": 89.0,
         "obs_num": 151.0
     },
     {
         "xml_id": "u9gkpkt-rend2",
-        "obs_mean_onset": 33.29,
+        "obs_mean_onset": 33.17916666666667,
         "velocity": 105.0,
         "obs_num": 152.0
     },
     {
         "xml_id": "ag9v84l-rend2",
-        "obs_mean_onset": 33.56,
+        "obs_mean_onset": 33.46041666666667,
         "velocity": 97.0,
         "obs_num": 153.0
     },
     {
         "xml_id": "ia10zff-rend2",
-        "obs_mean_onset": 33.558,
+        "obs_mean_onset": 33.45833333333333,
         "velocity": 96.0,
         "obs_num": 154.0
     },
     {
         "xml_id": "zz3l4iw-rend2",
-        "obs_mean_onset": 33.553,
+        "obs_mean_onset": 33.453125,
         "velocity": 88.0,
         "obs_num": 155.0
     },
     {
         "xml_id": "o1an3xxy-rend2",
-        "obs_mean_onset": 34.497,
+        "obs_mean_onset": 34.436458333333337,
         "velocity": 84.0,
         "obs_num": 156.0
     },
     {
         "xml_id": "c1c41aq3-rend2",
-        "obs_mean_onset": 34.516,
+        "obs_mean_onset": 34.456250000000007,
         "velocity": 81.0,
         "obs_num": 157.0
     },
     {
         "xml_id": "q13de2k4-rend2",
-        "obs_mean_onset": 35.283,
+        "obs_mean_onset": 35.25520833333333,
         "velocity": 80.0,
         "obs_num": 158.0
     },
     {
         "xml_id": "s88cmut-rend2",
-        "obs_mean_onset": 35.28,
+        "obs_mean_onset": 35.25208333333333,
         "velocity": 77.0,
         "obs_num": 159.0
     },
     {
         "xml_id": "g1yzffc0-rend2",
-        "obs_mean_onset": 35.283,
+        "obs_mean_onset": 35.25520833333333,
         "velocity": 64.0,
         "obs_num": 160.0
     },
     {
         "xml_id": "zr91spl-rend2",
-        "obs_mean_onset": 35.966,
+        "obs_mean_onset": 35.96666666666667,
         "velocity": 83.0,
         "obs_num": 161.0
     },
     {
         "xml_id": "z19i46j8-rend2",
-        "obs_mean_onset": 35.971,
+        "obs_mean_onset": 35.971875000000007,
         "velocity": 81.0,
         "obs_num": 162.0
     },
     {
         "xml_id": "w13z63rx-rend2",
-        "obs_mean_onset": 36.16,
+        "obs_mean_onset": 36.16875,
         "velocity": 99.0,
         "obs_num": 163.0
     },
     {
         "xml_id": "pybcg20-rend2",
-        "obs_mean_onset": 36.192,
+        "obs_mean_onset": 36.202083333333337,
         "velocity": 75.0,
         "obs_num": 164.0
     },
     {
         "xml_id": "awoc594-rend2",
-        "obs_mean_onset": 36.208,
+        "obs_mean_onset": 36.21875,
         "velocity": 80.0,
         "obs_num": 165.0
     },
     {
         "xml_id": "h8m12o6-rend2",
-        "obs_mean_onset": 36.674,
+        "obs_mean_onset": 36.704166666666669,
         "velocity": 100.0,
         "obs_num": 166.0
     },
     {
         "xml_id": "k1uy4r9e-rend2",
-        "obs_mean_onset": 36.681,
+        "obs_mean_onset": 36.71145833333333,
         "velocity": 65.0,
         "obs_num": 167.0
     },
     {
         "xml_id": "c141qqvf-rend2",
-        "obs_mean_onset": 36.705,
+        "obs_mean_onset": 36.73645833333333,
         "velocity": 83.0,
         "obs_num": 168.0
     },
     {
         "xml_id": "s6e9cfq-rend2",
-        "obs_mean_onset": 37.502,
+        "obs_mean_onset": 37.56666666666667,
         "velocity": 104.0,
         "obs_num": 169.0
     },
     {
         "xml_id": "cnlo5bm-rend2",
-        "obs_mean_onset": 37.503,
+        "obs_mean_onset": 37.56770833333333,
         "velocity": 89.0,
         "obs_num": 170.0
     },
     {
         "xml_id": "sby4l0a-rend2",
-        "obs_mean_onset": 37.537,
+        "obs_mean_onset": 37.603125000000009,
         "velocity": 85.0,
         "obs_num": 171.0
     },
     {
         "xml_id": "y1rzh80z-rend2",
-        "obs_mean_onset": 38.013,
+        "obs_mean_onset": 38.09895833333333,
         "velocity": 103.0,
         "obs_num": 172.0
     },
     {
         "xml_id": "bn5r63r-rend2",
-        "obs_mean_onset": 38.028,
+        "obs_mean_onset": 38.11458333333333,
         "velocity": 84.0,
         "obs_num": 173.0
     },
     {
         "xml_id": "j14wtvag-rend2",
-        "obs_mean_onset": 38.042,
+        "obs_mean_onset": 38.12916666666667,
         "velocity": 87.0,
         "obs_num": 174.0
     },
     {
         "xml_id": "p8f6k2a-rend2",
-        "obs_mean_onset": 38.68,
+        "obs_mean_onset": 38.79375,
         "velocity": 98.0,
         "obs_num": 175.0
     },
     {
         "xml_id": "k1ulwcdd-rend2",
-        "obs_mean_onset": 38.701,
+        "obs_mean_onset": 38.815625000000007,
         "velocity": 84.0,
         "obs_num": 176.0
     },
     {
         "xml_id": "a1qet116-rend2",
-        "obs_mean_onset": 38.865,
+        "obs_mean_onset": 38.98645833333333,
         "velocity": 99.0,
         "obs_num": 177.0
     },
     {
         "xml_id": "azq4osj-rend2",
-        "obs_mean_onset": 38.877,
+        "obs_mean_onset": 38.998958333333337,
         "velocity": 92.0,
         "obs_num": 178.0
     },
     {
         "xml_id": "z1720xs3-rend2",
-        "obs_mean_onset": 38.858,
+        "obs_mean_onset": 38.979166666666667,
         "velocity": 28.0,
         "obs_num": 179.0
     },
     {
         "xml_id": "j1o5g4t3-rend2",
-        "obs_mean_onset": 39.35,
+        "obs_mean_onset": 39.49166666666667,
         "velocity": 92.0,
         "obs_num": 180.0
     },
     {
         "xml_id": "n1akngcb-rend2",
-        "obs_mean_onset": 39.333,
+        "obs_mean_onset": 39.47395833333333,
         "velocity": 59.0,
         "obs_num": 181.0
     },
     {
         "xml_id": "v1ktpuwf-rend2",
-        "obs_mean_onset": 39.369,
+        "obs_mean_onset": 39.51145833333333,
         "velocity": 74.0,
         "obs_num": 182.0
     },
     {
         "xml_id": "hghapwj-rend2",
-        "obs_mean_onset": 40.214,
+        "obs_mean_onset": 40.391666666666669,
         "velocity": 93.0,
         "obs_num": 183.0
     },
     {
         "xml_id": "r4x570f-rend2",
-        "obs_mean_onset": 40.215,
+        "obs_mean_onset": 40.39270833333333,
         "velocity": 89.0,
         "obs_num": 184.0
     },
     {
         "xml_id": "ezti6rx-rend2",
-        "obs_mean_onset": 40.231,
+        "obs_mean_onset": 40.409375000000007,
         "velocity": 88.0,
         "obs_num": 185.0
     },
     {
         "xml_id": "vramq4e-rend2",
-        "obs_mean_onset": 40.73,
+        "obs_mean_onset": 40.92916666666667,
         "velocity": 103.0,
         "obs_num": 186.0
     },
     {
         "xml_id": "v1saxguz-rend2",
-        "obs_mean_onset": 40.738,
+        "obs_mean_onset": 40.9375,
         "velocity": 86.0,
         "obs_num": 187.0
     },
     {
         "xml_id": "h1h99oxb-rend2",
-        "obs_mean_onset": 40.75,
+        "obs_mean_onset": 40.95,
         "velocity": 81.0,
         "obs_num": 188.0
     },
     {
         "xml_id": "u1qoq67g-rend2",
-        "obs_mean_onset": 41.505,
+        "obs_mean_onset": 41.73645833333333,
         "velocity": 107.0,
         "obs_num": 189.0
     },
     {
         "xml_id": "x13bbwby-rend2",
-        "obs_mean_onset": 41.522,
+        "obs_mean_onset": 41.75416666666667,
         "velocity": 84.0,
         "obs_num": 190.0
     },
     {
         "xml_id": "u1owlnv6-rend2",
-        "obs_mean_onset": 41.532,
+        "obs_mean_onset": 41.764583333333337,
         "velocity": 89.0,
         "obs_num": 191.0
     },
     {
         "xml_id": "uf8uuqw-rend2",
-        "obs_mean_onset": 42.002,
+        "obs_mean_onset": 42.25416666666667,
         "velocity": 109.0,
         "obs_num": 192.0
     },
     {
         "xml_id": "t1e0r3ms-rend2",
-        "obs_mean_onset": 41.998,
+        "obs_mean_onset": 42.25,
         "velocity": 81.0,
         "obs_num": 193.0
     },
     {
         "xml_id": "z15cn1zd-rend2",
-        "obs_mean_onset": 42.026,
+        "obs_mean_onset": 42.27916666666667,
         "velocity": 93.0,
         "obs_num": 194.0
     },
     {
         "xml_id": "xvmnibx-rend2",
-        "obs_mean_onset": 42.908,
+        "obs_mean_onset": 43.197916666666667,
         "velocity": 106.0,
         "obs_num": 195.0
     },
     {
         "xml_id": "mup2knp-rend2",
-        "obs_mean_onset": 42.92,
+        "obs_mean_onset": 43.21041666666667,
         "velocity": 103.0,
         "obs_num": 196.0
     },
     {
         "xml_id": "l1y3ige8-rend2",
-        "obs_mean_onset": 42.902,
+        "obs_mean_onset": 43.19166666666667,
         "velocity": 106.0,
         "obs_num": 197.0
     },
     {
         "xml_id": "uvzahtw-rend2",
-        "obs_mean_onset": 42.922,
+        "obs_mean_onset": 43.212500000000009,
         "velocity": 93.0,
         "obs_num": 198.0
     },
     {
         "xml_id": "c1nxj8k8-rend2",
-        "obs_mean_onset": 43.462,
+        "obs_mean_onset": 43.775000000000009,
         "velocity": 102.0,
         "obs_num": 199.0
     },
     {
         "xml_id": "kjliwmx-rend2",
-        "obs_mean_onset": 43.47,
+        "obs_mean_onset": 43.78333333333333,
         "velocity": 90.0,
         "obs_num": 200.0
     },
     {
         "xml_id": "k1jahyja-rend2",
-        "obs_mean_onset": 43.48,
+        "obs_mean_onset": 43.79375,
         "velocity": 91.0,
         "obs_num": 201.0
     },
     {
         "xml_id": "yn42p7o-rend2",
-        "obs_mean_onset": 43.491,
+        "obs_mean_onset": 43.80520833333333,
         "velocity": 85.0,
         "obs_num": 202.0
     },
     {
         "xml_id": "ypdbd1l-rend2",
-        "obs_mean_onset": 44.374,
+        "obs_mean_onset": 44.725,
         "velocity": 90.0,
         "obs_num": 203.0
     },
     {
         "xml_id": "p1vj0ldy-rend2",
-        "obs_mean_onset": 44.4,
+        "obs_mean_onset": 44.75208333333333,
         "velocity": 78.0,
         "obs_num": 204.0
     },
     {
         "xml_id": "k16sfze5-rend2",
-        "obs_mean_onset": 44.386,
+        "obs_mean_onset": 44.737500000000007,
         "velocity": 75.0,
         "obs_num": 205.0
     },
     {
         "xml_id": "lnt0s0a-rend2",
-        "obs_mean_onset": 44.382,
+        "obs_mean_onset": 44.733333333333337,
         "velocity": 76.0,
         "obs_num": 206.0
     },
     {
         "xml_id": "puro2d5-rend2",
-        "obs_mean_onset": 45.013,
+        "obs_mean_onset": 45.390625,
         "velocity": 75.0,
         "obs_num": 207.0
     },
     {
         "xml_id": "n123nn45-rend2",
-        "obs_mean_onset": 45.033,
+        "obs_mean_onset": 45.41145833333333,
         "velocity": 79.0,
         "obs_num": 208.0
     },
     {
         "xml_id": "h123cclt-rend2",
-        "obs_mean_onset": 45.038,
+        "obs_mean_onset": 45.416666666666667,
         "velocity": 65.0,
         "obs_num": 209.0
     },
     {
         "xml_id": "zczvoi1-rend2",
-        "obs_mean_onset": 45.016,
+        "obs_mean_onset": 45.393750000000007,
         "velocity": 77.0,
         "obs_num": 210.0
     },
     {
         "xml_id": "mlq2brz",
-        "obs_mean_onset": 47.338,
+        "obs_mean_onset": 47.8125,
         "velocity": 101.0,
         "obs_num": 211.0
     },
     {
         "xml_id": "v7fd96i",
-        "obs_mean_onset": 47.365,
+        "obs_mean_onset": 47.840625,
         "velocity": 63.0,
         "obs_num": 212.0
     },
     {
         "xml_id": "d1dvhxfl",
-        "obs_mean_onset": 47.919,
+        "obs_mean_onset": 48.41770833333333,
         "velocity": 70.0,
         "obs_num": 213.0
     },
     {
         "xml_id": "k62k0jf",
-        "obs_mean_onset": 48.081,
+        "obs_mean_onset": 48.58645833333333,
         "velocity": 97.0,
         "obs_num": 214.0
     },
     {
         "xml_id": "zkavrsj",
-        "obs_mean_onset": 48.248,
+        "obs_mean_onset": 48.760416666666667,
         "velocity": 105.0,
         "obs_num": 215.0
     },
     {
         "xml_id": "d8lydoo",
-        "obs_mean_onset": 48.256,
+        "obs_mean_onset": 48.768750000000007,
         "velocity": 92.0,
         "obs_num": 216.0
     },
     {
         "xml_id": "riu1hsh",
-        "obs_mean_onset": 48.699,
+        "obs_mean_onset": 49.23020833333333,
         "velocity": 108.0,
         "obs_num": 217.0
     },
     {
         "xml_id": "v1l5n2i7",
-        "obs_mean_onset": 48.741,
+        "obs_mean_onset": 49.27395833333333,
         "velocity": 77.0,
         "obs_num": 218.0
     },
     {
         "xml_id": "kddggut",
-        "obs_mean_onset": 49.161,
+        "obs_mean_onset": 49.71145833333334,
         "velocity": 81.0,
         "obs_num": 219.0
     },
     {
         "xml_id": "ph3lxvl",
-        "obs_mean_onset": 49.508,
+        "obs_mean_onset": 50.072916666666667,
         "velocity": 109.0,
         "obs_num": 220.0
     },
     {
         "xml_id": "g1eznm7g",
-        "obs_mean_onset": 49.538,
+        "obs_mean_onset": 50.104166666666667,
         "velocity": 91.0,
         "obs_num": 221.0
     },
     {
         "xml_id": "f1xrljqx",
-        "obs_mean_onset": 49.826,
+        "obs_mean_onset": 50.40416666666667,
         "velocity": 100.0,
         "obs_num": 222.0
     },
     {
         "xml_id": "x1e3a74c",
-        "obs_mean_onset": 49.89,
+        "obs_mean_onset": 50.47083333333334,
         "velocity": 110.0,
         "obs_num": 223.0
     },
     {
         "xml_id": "c1fesqyq",
-        "obs_mean_onset": 49.963,
+        "obs_mean_onset": 50.546875,
         "velocity": 114.0,
         "obs_num": 224.0
     },
     {
         "xml_id": "y1q34ixh",
-        "obs_mean_onset": 49.959,
+        "obs_mean_onset": 50.54270833333334,
         "velocity": 86.0,
         "obs_num": 225.0
     },
     {
         "xml_id": "k18cct7d",
-        "obs_mean_onset": 50.468,
+        "obs_mean_onset": 51.072916666666667,
         "velocity": 86.0,
         "obs_num": 226.0
     },
     {
         "xml_id": "j1ielikd",
-        "obs_mean_onset": 50.63,
+        "obs_mean_onset": 51.24166666666667,
         "velocity": 108.0,
         "obs_num": 227.0
     },
     {
         "xml_id": "bme1qvr",
-        "obs_mean_onset": 50.804,
+        "obs_mean_onset": 51.422916666666669,
         "velocity": 111.0,
         "obs_num": 228.0
     },
     {
         "xml_id": "iloxb6x",
-        "obs_mean_onset": 50.808,
+        "obs_mean_onset": 51.427083333333339,
         "velocity": 90.0,
         "obs_num": 229.0
     },
     {
         "xml_id": "fmiy73o",
-        "obs_mean_onset": 51.218,
+        "obs_mean_onset": 51.854166666666667,
         "velocity": 108.0,
         "obs_num": 230.0
     },
     {
         "xml_id": "eujkj5r",
-        "obs_mean_onset": 51.253,
+        "obs_mean_onset": 51.890625,
         "velocity": 83.0,
         "obs_num": 231.0
     },
     {
         "xml_id": "sftt4fl",
-        "obs_mean_onset": 51.634,
+        "obs_mean_onset": 52.2875,
         "velocity": 107.0,
         "obs_num": 232.0
     },
     {
         "xml_id": "a1uc96cx",
-        "obs_mean_onset": 51.669,
+        "obs_mean_onset": 52.32395833333334,
         "velocity": 79.0,
         "obs_num": 233.0
     },
     {
         "xml_id": "q18geqq8",
-        "obs_mean_onset": 52.08,
+        "obs_mean_onset": 52.75208333333334,
         "velocity": 105.0,
         "obs_num": 234.0
     },
     {
         "xml_id": "o6qzd2u",
-        "obs_mean_onset": 52.123,
+        "obs_mean_onset": 52.796875,
         "velocity": 82.0,
         "obs_num": 235.0
     },
     {
         "xml_id": "lijim2s",
-        "obs_mean_onset": 52.585,
+        "obs_mean_onset": 53.278125,
         "velocity": 109.0,
         "obs_num": 236.0
     },
     {
         "xml_id": "h801ppo",
-        "obs_mean_onset": 52.604,
+        "obs_mean_onset": 53.297916666666669,
         "velocity": 83.0,
         "obs_num": 237.0
     },
     {
         "xml_id": "f1mege7h",
-        "obs_mean_onset": 52.622,
+        "obs_mean_onset": 53.31666666666667,
         "velocity": 81.0,
         "obs_num": 238.0
     },
     {
         "xml_id": "q18ogrkf",
-        "obs_mean_onset": 53.034,
+        "obs_mean_onset": 53.74583333333334,
         "velocity": 92.0,
         "obs_num": 239.0
     },
     {
         "xml_id": "y1x3fhbe",
-        "obs_mean_onset": 53.473,
+        "obs_mean_onset": 54.203125,
         "velocity": 96.0,
         "obs_num": 240.0
     },
     {
         "xml_id": "nbp1ner",
-        "obs_mean_onset": 53.92,
+        "obs_mean_onset": 54.66875,
         "velocity": 111.0,
         "obs_num": 241.0
     },
     {
         "xml_id": "m1eazp83",
-        "obs_mean_onset": 53.937,
+        "obs_mean_onset": 54.68645833333334,
         "velocity": 86.0,
         "obs_num": 242.0
     },
     {
         "xml_id": "hvcq5y4",
-        "obs_mean_onset": 53.926,
+        "obs_mean_onset": 54.675000000000007,
         "velocity": 82.0,
         "obs_num": 243.0
     },
     {
         "xml_id": "a1razby0",
-        "obs_mean_onset": 54.382,
+        "obs_mean_onset": 55.150000000000009,
         "velocity": 97.0,
         "obs_num": 244.0
     },
     {
         "xml_id": "u1520vkb",
-        "obs_mean_onset": 54.862,
+        "obs_mean_onset": 55.650000000000009,
         "velocity": 91.0,
         "obs_num": 245.0
     },
     {
         "xml_id": "c8ncnmt",
-        "obs_mean_onset": 55.332,
+        "obs_mean_onset": 56.13958333333334,
         "velocity": 110.0,
         "obs_num": 246.0
     },
     {
         "xml_id": "q1wrxm3t",
-        "obs_mean_onset": 55.359,
+        "obs_mean_onset": 56.16770833333334,
         "velocity": 85.0,
         "obs_num": 247.0
     },
     {
         "xml_id": "t4p94gz",
-        "obs_mean_onset": 55.362,
+        "obs_mean_onset": 56.17083333333334,
         "velocity": 83.0,
         "obs_num": 248.0
     },
     {
         "xml_id": "p16liuix",
-        "obs_mean_onset": 55.797,
+        "obs_mean_onset": 56.62395833333334,
         "velocity": 107.0,
         "obs_num": 249.0
     },
     {
         "xml_id": "m4rbydc",
-        "obs_mean_onset": 56.311,
+        "obs_mean_onset": 57.159375000000007,
         "velocity": 105.0,
         "obs_num": 250.0
     },
     {
         "xml_id": "r1lihr99",
-        "obs_mean_onset": 56.304,
+        "obs_mean_onset": 57.15208333333334,
         "velocity": 103.0,
         "obs_num": 251.0
     },
     {
         "xml_id": "c19o1bfl",
-        "obs_mean_onset": 56.33,
+        "obs_mean_onset": 57.17916666666667,
         "velocity": 93.0,
         "obs_num": 252.0
     },
     {
         "xml_id": "fc5uuec",
-        "obs_mean_onset": 56.95,
+        "obs_mean_onset": 57.825,
         "velocity": 103.0,
         "obs_num": 253.0
     },
     {
         "xml_id": "h8t05ty",
-        "obs_mean_onset": 56.966,
+        "obs_mean_onset": 57.84166666666667,
         "velocity": 88.0,
         "obs_num": 254.0
     },
     {
         "xml_id": "dobcd5y",
-        "obs_mean_onset": 56.961,
+        "obs_mean_onset": 57.83645833333334,
         "velocity": 92.0,
         "obs_num": 255.0
     },
     {
         "xml_id": "bgeigtr",
-        "obs_mean_onset": 56.97,
+        "obs_mean_onset": 57.84583333333334,
         "velocity": 88.0,
         "obs_num": 256.0
     },
     {
         "xml_id": "qbldfw",
-        "obs_mean_onset": 57.903,
+        "obs_mean_onset": 58.817708333333339,
         "velocity": 83.0,
         "obs_num": 257.0
     },
     {
         "xml_id": "oe5gbgn",
-        "obs_mean_onset": 57.933,
+        "obs_mean_onset": 58.848958333333339,
         "velocity": 72.0,
         "obs_num": 258.0
     },
     {
         "xml_id": "n1ozqqyy",
-        "obs_mean_onset": 58.675,
+        "obs_mean_onset": 59.621875,
         "velocity": 91.0,
         "obs_num": 259.0
     },
     {
         "xml_id": "w1pf5u73",
-        "obs_mean_onset": 58.7,
+        "obs_mean_onset": 59.64791666666667,
         "velocity": 81.0,
         "obs_num": 260.0
     },
     {
         "xml_id": "u1306iho",
-        "obs_mean_onset": 58.704,
+        "obs_mean_onset": 59.65208333333334,
         "velocity": 70.0,
         "obs_num": 261.0
     },
     {
         "xml_id": "o2jmd08",
-        "obs_mean_onset": 59.355,
+        "obs_mean_onset": 60.33020833333334,
         "velocity": 98.0,
         "obs_num": 262.0
     },
     {
         "xml_id": "t1mykzz4",
-        "obs_mean_onset": 59.35,
+        "obs_mean_onset": 60.325,
         "velocity": 89.0,
         "obs_num": 263.0
     },
     {
         "xml_id": "kqnpl7q",
-        "obs_mean_onset": 59.52,
+        "obs_mean_onset": 60.50208333333334,
         "velocity": 110.0,
         "obs_num": 264.0
     },
     {
         "xml_id": "xvxl4sb",
-        "obs_mean_onset": 59.526,
+        "obs_mean_onset": 60.50833333333334,
         "velocity": 90.0,
         "obs_num": 265.0
     },
     {
         "xml_id": "h1pmpqut",
-        "obs_mean_onset": 59.546,
+        "obs_mean_onset": 60.52916666666667,
         "velocity": 78.0,
         "obs_num": 266.0
     },
     {
         "xml_id": "k1ys9nqj",
-        "obs_mean_onset": 60.016,
+        "obs_mean_onset": 61.018750000000007,
         "velocity": 106.0,
         "obs_num": 267.0
     },
     {
         "xml_id": "d1ffd6xx",
-        "obs_mean_onset": 60.031,
+        "obs_mean_onset": 61.034375000000007,
         "velocity": 79.0,
         "obs_num": 268.0
     },
     {
         "xml_id": "q1vaqyw6",
-        "obs_mean_onset": 60.048,
+        "obs_mean_onset": 61.052083333333339,
         "velocity": 82.0,
         "obs_num": 269.0
     },
     {
         "xml_id": "e1nf0a4",
-        "obs_mean_onset": 60.873,
+        "obs_mean_onset": 61.911458333333339,
         "velocity": 110.0,
         "obs_num": 270.0
     },
     {
         "xml_id": "k1wrhokh",
-        "obs_mean_onset": 60.88,
+        "obs_mean_onset": 61.91875,
         "velocity": 87.0,
         "obs_num": 271.0
     },
     {
         "xml_id": "o1c2diot",
-        "obs_mean_onset": 60.895,
+        "obs_mean_onset": 61.934375,
         "velocity": 91.0,
         "obs_num": 272.0
     },
     {
         "xml_id": "i1aj1zqh",
-        "obs_mean_onset": 61.389,
+        "obs_mean_onset": 62.44895833333334,
         "velocity": 105.0,
         "obs_num": 273.0
     },
     {
         "xml_id": "ripac7s",
-        "obs_mean_onset": 61.401,
+        "obs_mean_onset": 62.46145833333334,
         "velocity": 79.0,
         "obs_num": 274.0
     },
     {
         "xml_id": "gusioht",
-        "obs_mean_onset": 61.413,
+        "obs_mean_onset": 62.473958333333339,
         "velocity": 84.0,
         "obs_num": 275.0
     },
     {
         "xml_id": "d1upjask",
-        "obs_mean_onset": 62.047,
+        "obs_mean_onset": 63.134375000000009,
         "velocity": 99.0,
         "obs_num": 276.0
     },
     {
         "xml_id": "lzcppd0",
-        "obs_mean_onset": 62.058,
+        "obs_mean_onset": 63.14583333333334,
         "velocity": 85.0,
         "obs_num": 277.0
     },
     {
         "xml_id": "z1rl7s9g",
-        "obs_mean_onset": 62.209,
+        "obs_mean_onset": 63.30312500000001,
         "velocity": 99.0,
         "obs_num": 278.0
     },
     {
         "xml_id": "d1eyd9k5",
-        "obs_mean_onset": 62.244,
+        "obs_mean_onset": 63.33958333333334,
         "velocity": 91.0,
         "obs_num": 279.0
     },
     {
         "xml_id": "c1ebv38q",
-        "obs_mean_onset": 62.242,
+        "obs_mean_onset": 63.337500000000009,
         "velocity": 70.0,
         "obs_num": 280.0
     },
     {
         "xml_id": "x13u72eh",
-        "obs_mean_onset": 62.713,
+        "obs_mean_onset": 63.828125,
         "velocity": 93.0,
         "obs_num": 281.0
     },
     {
         "xml_id": "zgcas3o",
-        "obs_mean_onset": 62.709,
+        "obs_mean_onset": 63.82395833333334,
         "velocity": 81.0,
         "obs_num": 282.0
     },
     {
         "xml_id": "abd6kdw",
-        "obs_mean_onset": 62.73,
+        "obs_mean_onset": 63.845833333333349,
         "velocity": 76.0,
         "obs_num": 283.0
     },
     {
         "xml_id": "l1jlt7fy",
-        "obs_mean_onset": 63.542,
+        "obs_mean_onset": 64.69166666666668,
         "velocity": 99.0,
         "obs_num": 284.0
     },
     {
         "xml_id": "q1t42yp8",
-        "obs_mean_onset": 63.534,
+        "obs_mean_onset": 64.68333333333334,
         "velocity": 81.0,
         "obs_num": 285.0
     },
     {
         "xml_id": "wz5aa03",
-        "obs_mean_onset": 63.555,
+        "obs_mean_onset": 64.70520833333333,
         "velocity": 84.0,
         "obs_num": 286.0
     },
     {
         "xml_id": "n1ydspx5",
-        "obs_mean_onset": 64.072,
+        "obs_mean_onset": 65.24375,
         "velocity": 102.0,
         "obs_num": 287.0
     },
     {
         "xml_id": "u5k5yx4",
-        "obs_mean_onset": 64.078,
+        "obs_mean_onset": 65.25,
         "velocity": 86.0,
         "obs_num": 288.0
     },
     {
         "xml_id": "lae8yyd",
-        "obs_mean_onset": 64.108,
+        "obs_mean_onset": 65.28125,
         "velocity": 83.0,
         "obs_num": 289.0
     },
     {
         "xml_id": "e1evzu5o",
-        "obs_mean_onset": 64.86,
+        "obs_mean_onset": 66.06458333333333,
         "velocity": 108.0,
         "obs_num": 290.0
     },
     {
         "xml_id": "t1p9r8oe",
-        "obs_mean_onset": 64.876,
+        "obs_mean_onset": 66.08125,
         "velocity": 84.0,
         "obs_num": 291.0
     },
     {
         "xml_id": "f4rp0tq",
-        "obs_mean_onset": 64.896,
+        "obs_mean_onset": 66.10208333333333,
         "velocity": 88.0,
         "obs_num": 292.0
     },
     {
         "xml_id": "j20oz5l",
-        "obs_mean_onset": 65.36,
+        "obs_mean_onset": 66.58541666666668,
         "velocity": 114.0,
         "obs_num": 293.0
     },
     {
         "xml_id": "n36q88z",
-        "obs_mean_onset": 65.35,
+        "obs_mean_onset": 66.575,
         "velocity": 97.0,
         "obs_num": 294.0
     },
     {
         "xml_id": "v1mgoblz",
-        "obs_mean_onset": 65.376,
+        "obs_mean_onset": 66.60208333333333,
         "velocity": 99.0,
         "obs_num": 295.0
     },
     {
         "xml_id": "p1eqou1p",
-        "obs_mean_onset": 66.226,
+        "obs_mean_onset": 67.4875,
         "velocity": 111.0,
         "obs_num": 296.0
     },
     {
         "xml_id": "p1oa3nf1",
-        "obs_mean_onset": 66.237,
+        "obs_mean_onset": 67.49895833333334,
         "velocity": 107.0,
         "obs_num": 297.0
     },
     {
         "xml_id": "d1dhon0t",
-        "obs_mean_onset": 66.234,
+        "obs_mean_onset": 67.49583333333334,
         "velocity": 107.0,
         "obs_num": 298.0
     },
     {
         "xml_id": "ykvpg0t",
-        "obs_mean_onset": 66.24,
+        "obs_mean_onset": 67.50208333333333,
         "velocity": 98.0,
         "obs_num": 299.0
     },
     {
         "xml_id": "r75zmjd",
-        "obs_mean_onset": 66.77,
+        "obs_mean_onset": 68.05416666666668,
         "velocity": 106.0,
         "obs_num": 300.0
     },
     {
         "xml_id": "a11aboh8",
-        "obs_mean_onset": 66.79,
+        "obs_mean_onset": 68.075,
         "velocity": 95.0,
         "obs_num": 301.0
     },
     {
         "xml_id": "q1chem6d",
-        "obs_mean_onset": 66.802,
+        "obs_mean_onset": 68.0875,
         "velocity": 92.0,
         "obs_num": 302.0
     },
     {
         "xml_id": "fs91dhp",
-        "obs_mean_onset": 66.788,
+        "obs_mean_onset": 68.07291666666667,
         "velocity": 87.0,
         "obs_num": 303.0
     },
     {
         "xml_id": "hmht5q0",
-        "obs_mean_onset": 67.623,
+        "obs_mean_onset": 68.94270833333333,
         "velocity": 97.0,
         "obs_num": 304.0
     },
     {
         "xml_id": "j1qxjmnz",
-        "obs_mean_onset": 67.647,
+        "obs_mean_onset": 68.96770833333334,
         "velocity": 80.0,
         "obs_num": 305.0
     },
     {
         "xml_id": "inw6kpl",
-        "obs_mean_onset": 67.658,
+        "obs_mean_onset": 68.97916666666667,
         "velocity": 69.0,
         "obs_num": 306.0
     },
     {
         "xml_id": "k113jd8y",
-        "obs_mean_onset": 67.628,
+        "obs_mean_onset": 68.94791666666667,
         "velocity": 80.0,
         "obs_num": 307.0
     },
     {
         "xml_id": "ao7r82n",
-        "obs_mean_onset": 68.239,
+        "obs_mean_onset": 69.58437500000001,
         "velocity": 96.0,
         "obs_num": 308.0
     },
     {
         "xml_id": "o1grtptb",
-        "obs_mean_onset": 68.257,
+        "obs_mean_onset": 69.603125,
         "velocity": 82.0,
         "obs_num": 309.0
     },
     {
         "xml_id": "f11fziuw",
-        "obs_mean_onset": 68.25,
+        "obs_mean_onset": 69.59583333333333,
         "velocity": 84.0,
         "obs_num": 310.0
     },
     {
         "xml_id": "fv67jjb",
-        "obs_mean_onset": 68.254,
+        "obs_mean_onset": 69.60000000000001,
         "velocity": 82.0,
         "obs_num": 311.0
     },
     {
         "xml_id": "y18xc252",
-        "obs_mean_onset": 69.141,
+        "obs_mean_onset": 70.52395833333333,
         "velocity": 101.0,
         "obs_num": 312.0
     },
     {
         "xml_id": "h7pzzb4",
-        "obs_mean_onset": 69.138,
+        "obs_mean_onset": 70.52083333333333,
         "velocity": 96.0,
         "obs_num": 313.0
     },
     {
         "xml_id": "a1lbb5ic",
-        "obs_mean_onset": 69.726,
+        "obs_mean_onset": 71.13333333333333,
         "velocity": 112.0,
         "obs_num": 314.0
     },
     {
         "xml_id": "q35di1d",
-        "obs_mean_onset": 69.73,
+        "obs_mean_onset": 71.1375,
         "velocity": 112.0,
         "obs_num": 315.0
     },
     {
         "xml_id": "ih3shkb",
-        "obs_mean_onset": 69.742,
+        "obs_mean_onset": 71.15,
         "velocity": 106.0,
         "obs_num": 316.0
     },
     {
         "xml_id": "q1b3n1gm",
-        "obs_mean_onset": 69.735,
+        "obs_mean_onset": 71.14270833333333,
         "velocity": 103.0,
         "obs_num": 317.0
     },
     {
         "xml_id": "im0hpl0",
-        "obs_mean_onset": 69.73,
+        "obs_mean_onset": 71.1375,
         "velocity": 103.0,
         "obs_num": 318.0
     },
     {
         "xml_id": "wq3tesc",
-        "obs_mean_onset": 70.584,
+        "obs_mean_onset": 72.02708333333334,
         "velocity": 115.0,
         "obs_num": 319.0
     },
     {
         "xml_id": "j1udahp7",
-        "obs_mean_onset": 70.591,
+        "obs_mean_onset": 72.034375,
         "velocity": 110.0,
         "obs_num": 320.0
     },
     {
         "xml_id": "oplkixu",
-        "obs_mean_onset": 70.599,
+        "obs_mean_onset": 72.04270833333334,
         "velocity": 108.0,
         "obs_num": 321.0
     },
     {
         "xml_id": "y13sfng6",
-        "obs_mean_onset": 70.596,
+        "obs_mean_onset": 72.03958333333333,
         "velocity": 105.0,
         "obs_num": 322.0
     },
     {
         "xml_id": "x1997ydp",
-        "obs_mean_onset": 70.599,
+        "obs_mean_onset": 72.04270833333334,
         "velocity": 104.0,
         "obs_num": 323.0
     },
     {
         "xml_id": "t1r7cavu",
-        "obs_mean_onset": 71.121,
+        "obs_mean_onset": 72.58645833333333,
         "velocity": 120.0,
         "obs_num": 324.0
     },
     {
         "xml_id": "d5avh83",
-        "obs_mean_onset": 71.132,
+        "obs_mean_onset": 72.59791666666668,
         "velocity": 114.0,
         "obs_num": 325.0
     },
     {
         "xml_id": "fal6wna",
-        "obs_mean_onset": 71.138,
+        "obs_mean_onset": 72.60416666666667,
         "velocity": 113.0,
         "obs_num": 326.0
     },
     {
         "xml_id": "pril1ne",
-        "obs_mean_onset": 71.138,
+        "obs_mean_onset": 72.60416666666667,
         "velocity": 110.0,
         "obs_num": 327.0
     },
     {
         "xml_id": "q68ka6w",
-        "obs_mean_onset": 71.137,
+        "obs_mean_onset": 72.603125,
         "velocity": 109.0,
         "obs_num": 328.0
     },
     {
         "xml_id": "l1hf9sc",
-        "obs_mean_onset": 72.002,
+        "obs_mean_onset": 73.50416666666668,
         "velocity": 118.0,
         "obs_num": 329.0
     },
     {
         "xml_id": "w1txm8tp",
-        "obs_mean_onset": 72.027,
+        "obs_mean_onset": 73.53020833333334,
         "velocity": 102.0,
         "obs_num": 330.0
     },
     {
         "xml_id": "s13azi2h",
-        "obs_mean_onset": 72.034,
+        "obs_mean_onset": 73.53750000000001,
         "velocity": 102.0,
         "obs_num": 331.0
     },
     {
         "xml_id": "k1ud4aeb",
-        "obs_mean_onset": 72.381,
+        "obs_mean_onset": 73.89895833333333,
         "velocity": 105.0,
         "obs_num": 332.0
     },
     {
         "xml_id": "joynx6z",
-        "obs_mean_onset": 72.468,
+        "obs_mean_onset": 73.98958333333333,
         "velocity": 111.0,
         "obs_num": 333.0
     },
     {
         "xml_id": "ttfd0in",
-        "obs_mean_onset": 72.594,
+        "obs_mean_onset": 74.12083333333334,
         "velocity": 108.0,
         "obs_num": 334.0
     },
     {
         "xml_id": "n8s2bp7",
-        "obs_mean_onset": 72.619,
+        "obs_mean_onset": 74.14687500000001,
         "velocity": 90.0,
         "obs_num": 335.0
     },
     {
         "xml_id": "k1kur0gg",
-        "obs_mean_onset": 72.612,
+        "obs_mean_onset": 74.13958333333334,
         "velocity": 92.0,
         "obs_num": 336.0
     },
     {
         "xml_id": "s17tbkkh",
-        "obs_mean_onset": 73.498,
+        "obs_mean_onset": 75.0625,
         "velocity": 93.0,
         "obs_num": 337.0
     },
     {
         "xml_id": "l126c3go",
-        "obs_mean_onset": 73.509,
+        "obs_mean_onset": 75.07395833333334,
         "velocity": 93.0,
         "obs_num": 338.0
     },
     {
         "xml_id": "voynmr6",
-        "obs_mean_onset": 73.512,
+        "obs_mean_onset": 75.07708333333334,
         "velocity": 87.0,
         "obs_num": 339.0
     },
     {
         "xml_id": "i1g7l136",
-        "obs_mean_onset": 73.518,
+        "obs_mean_onset": 75.08333333333333,
         "velocity": 79.0,
         "obs_num": 340.0
     },
     {
         "xml_id": "d101kzqf",
-        "obs_mean_onset": 73.766,
+        "obs_mean_onset": 75.34166666666667,
         "velocity": 93.0,
         "obs_num": 341.0
     },
     {
         "xml_id": "h146utvv",
-        "obs_mean_onset": 74.134,
+        "obs_mean_onset": 75.72500000000001,
         "velocity": 94.0,
         "obs_num": 342.0
     },
     {
         "xml_id": "ebeyf0y",
-        "obs_mean_onset": 74.144,
+        "obs_mean_onset": 75.73541666666668,
         "velocity": 82.0,
         "obs_num": 343.0
     },
     {
         "xml_id": "p1grfz8v",
-        "obs_mean_onset": 74.157,
+        "obs_mean_onset": 75.74895833333334,
         "velocity": 79.0,
         "obs_num": 344.0
     },
     {
         "xml_id": "mlq2brz-rend2",
-        "obs_mean_onset": 76.387,
+        "obs_mean_onset": 78.071875,
         "velocity": 93.0,
         "obs_num": 345.0
     },
     {
         "xml_id": "v7fd96i-rend2",
-        "obs_mean_onset": 76.416,
+        "obs_mean_onset": 78.10208333333333,
         "velocity": 62.0,
         "obs_num": 346.0
     },
     {
         "xml_id": "d1dvhxfl-rend2",
-        "obs_mean_onset": 76.958,
+        "obs_mean_onset": 78.66666666666667,
         "velocity": 76.0,
         "obs_num": 347.0
     },
     {
         "xml_id": "k62k0jf-rend2",
-        "obs_mean_onset": 77.149,
+        "obs_mean_onset": 78.86562500000001,
         "velocity": 99.0,
         "obs_num": 348.0
     },
     {
         "xml_id": "zkavrsj-rend2",
-        "obs_mean_onset": 77.31,
+        "obs_mean_onset": 79.03333333333333,
         "velocity": 107.0,
         "obs_num": 349.0
     },
     {
         "xml_id": "d8lydoo-rend2",
-        "obs_mean_onset": 77.332,
+        "obs_mean_onset": 79.05625,
         "velocity": 84.0,
         "obs_num": 350.0
     },
     {
         "xml_id": "riu1hsh-rend2",
-        "obs_mean_onset": 77.764,
+        "obs_mean_onset": 79.50625000000001,
         "velocity": 106.0,
         "obs_num": 351.0
     },
     {
         "xml_id": "v1l5n2i7-rend2",
-        "obs_mean_onset": 77.781,
+        "obs_mean_onset": 79.52395833333333,
         "velocity": 82.0,
         "obs_num": 352.0
     },
     {
         "xml_id": "kddggut-rend2",
-        "obs_mean_onset": 78.194,
+        "obs_mean_onset": 79.95416666666668,
         "velocity": 88.0,
         "obs_num": 353.0
     },
     {
         "xml_id": "ph3lxvl-rend2",
-        "obs_mean_onset": 78.54,
+        "obs_mean_onset": 80.31458333333333,
         "velocity": 113.0,
         "obs_num": 354.0
     },
     {
         "xml_id": "g1eznm7g-rend2",
-        "obs_mean_onset": 78.577,
+        "obs_mean_onset": 80.353125,
         "velocity": 91.0,
         "obs_num": 355.0
     },
     {
         "xml_id": "f1xrljqx-rend2",
-        "obs_mean_onset": 78.852,
+        "obs_mean_onset": 80.63958333333334,
         "velocity": 96.0,
         "obs_num": 356.0
     },
     {
         "xml_id": "x1e3a74c-rend2",
-        "obs_mean_onset": 78.928,
+        "obs_mean_onset": 80.71875,
         "velocity": 108.0,
         "obs_num": 357.0
     },
     {
         "xml_id": "c1fesqyq-rend2",
-        "obs_mean_onset": 78.999,
+        "obs_mean_onset": 80.79270833333334,
         "velocity": 113.0,
         "obs_num": 358.0
     },
     {
         "xml_id": "y1q34ixh-rend2",
-        "obs_mean_onset": 78.993,
+        "obs_mean_onset": 80.78645833333333,
         "velocity": 83.0,
         "obs_num": 359.0
     },
     {
         "xml_id": "k18cct7d-rend2",
-        "obs_mean_onset": 79.438,
+        "obs_mean_onset": 81.25,
         "velocity": 84.0,
         "obs_num": 360.0
     },
     {
         "xml_id": "j1ielikd-rend2",
-        "obs_mean_onset": 79.617,
+        "obs_mean_onset": 81.43645833333334,
         "velocity": 108.0,
         "obs_num": 361.0
     },
     {
         "xml_id": "bme1qvr-rend2",
-        "obs_mean_onset": 79.785,
+        "obs_mean_onset": 81.61145833333333,
         "velocity": 107.0,
         "obs_num": 362.0
     },
     {
         "xml_id": "iloxb6x-rend2",
-        "obs_mean_onset": 79.801,
+        "obs_mean_onset": 81.628125,
         "velocity": 90.0,
         "obs_num": 363.0
     },
     {
         "xml_id": "fmiy73o-rend2",
-        "obs_mean_onset": 80.242,
+        "obs_mean_onset": 82.0875,
         "velocity": 107.0,
         "obs_num": 364.0
     },
     {
         "xml_id": "eujkj5r-rend2",
-        "obs_mean_onset": 80.269,
+        "obs_mean_onset": 82.11562500000001,
         "velocity": 80.0,
         "obs_num": 365.0
     },
     {
         "xml_id": "sftt4fl-rend2",
-        "obs_mean_onset": 80.661,
+        "obs_mean_onset": 82.52395833333333,
         "velocity": 100.0,
         "obs_num": 366.0
     },
     {
         "xml_id": "a1uc96cx-rend2",
-        "obs_mean_onset": 80.697,
+        "obs_mean_onset": 82.56145833333334,
         "velocity": 67.0,
         "obs_num": 367.0
     },
     {
         "xml_id": "q18geqq8-rend2",
-        "obs_mean_onset": 81.097,
+        "obs_mean_onset": 82.978125,
         "velocity": 105.0,
         "obs_num": 368.0
     },
     {
         "xml_id": "o6qzd2u-rend2",
-        "obs_mean_onset": 81.14,
+        "obs_mean_onset": 83.02291666666668,
         "velocity": 84.0,
         "obs_num": 369.0
     },
     {
         "xml_id": "lijim2s-rend2",
-        "obs_mean_onset": 81.628,
+        "obs_mean_onset": 83.53125,
         "velocity": 110.0,
         "obs_num": 370.0
     },
     {
         "xml_id": "h801ppo-rend2",
-        "obs_mean_onset": 81.644,
+        "obs_mean_onset": 83.54791666666668,
         "velocity": 78.0,
         "obs_num": 371.0
     },
     {
         "xml_id": "f1mege7h-rend2",
-        "obs_mean_onset": 81.652,
+        "obs_mean_onset": 83.55625,
         "velocity": 76.0,
         "obs_num": 372.0
     },
     {
         "xml_id": "q18ogrkf-rend2",
-        "obs_mean_onset": 82.087,
+        "obs_mean_onset": 84.009375,
         "velocity": 99.0,
         "obs_num": 373.0
     },
     {
         "xml_id": "y1x3fhbe-rend2",
-        "obs_mean_onset": 82.528,
+        "obs_mean_onset": 84.46875,
         "velocity": 96.0,
         "obs_num": 374.0
     },
     {
         "xml_id": "nbp1ner-rend2",
-        "obs_mean_onset": 82.963,
+        "obs_mean_onset": 84.921875,
         "velocity": 113.0,
         "obs_num": 375.0
     },
     {
         "xml_id": "m1eazp83-rend2",
-        "obs_mean_onset": 82.981,
+        "obs_mean_onset": 84.940625,
         "velocity": 88.0,
         "obs_num": 376.0
     },
     {
         "xml_id": "hvcq5y4-rend2",
-        "obs_mean_onset": 82.975,
+        "obs_mean_onset": 84.934375,
         "velocity": 88.0,
         "obs_num": 377.0
     },
     {
         "xml_id": "a1razby0-rend2",
-        "obs_mean_onset": 83.409,
+        "obs_mean_onset": 85.38645833333334,
         "velocity": 97.0,
         "obs_num": 378.0
     },
     {
         "xml_id": "u1520vkb-rend2",
-        "obs_mean_onset": 83.871,
+        "obs_mean_onset": 85.86770833333333,
         "velocity": 95.0,
         "obs_num": 379.0
     },
     {
         "xml_id": "c8ncnmt-rend2",
-        "obs_mean_onset": 84.345,
+        "obs_mean_onset": 86.36145833333333,
         "velocity": 111.0,
         "obs_num": 380.0
     },
     {
         "xml_id": "q1wrxm3t-rend2",
-        "obs_mean_onset": 84.373,
+        "obs_mean_onset": 86.390625,
         "velocity": 90.0,
         "obs_num": 381.0
     },
     {
         "xml_id": "t4p94gz-rend2",
-        "obs_mean_onset": 84.381,
+        "obs_mean_onset": 86.39895833333333,
         "velocity": 92.0,
         "obs_num": 382.0
     },
     {
         "xml_id": "p16liuix-rend2",
-        "obs_mean_onset": 84.813,
+        "obs_mean_onset": 86.84895833333333,
         "velocity": 99.0,
         "obs_num": 383.0
     },
     {
         "xml_id": "m4rbydc-rend2",
-        "obs_mean_onset": 85.358,
+        "obs_mean_onset": 87.41666666666667,
         "velocity": 98.0,
         "obs_num": 384.0
     },
     {
         "xml_id": "r1lihr99-rend2",
-        "obs_mean_onset": 85.362,
+        "obs_mean_onset": 87.42083333333334,
         "velocity": 82.0,
         "obs_num": 385.0
     },
     {
         "xml_id": "c19o1bfl-rend2",
-        "obs_mean_onset": 85.376,
+        "obs_mean_onset": 87.43541666666667,
         "velocity": 80.0,
         "obs_num": 386.0
     },
     {
         "xml_id": "fc5uuec-rend2",
-        "obs_mean_onset": 86.073,
+        "obs_mean_onset": 88.16145833333333,
         "velocity": 98.0,
         "obs_num": 387.0
     },
     {
         "xml_id": "h8t05ty-rend2",
-        "obs_mean_onset": 86.07,
+        "obs_mean_onset": 88.15833333333333,
         "velocity": 86.0,
         "obs_num": 388.0
     },
     {
         "xml_id": "dobcd5y-rend2",
-        "obs_mean_onset": 86.05,
+        "obs_mean_onset": 88.1375,
         "velocity": 73.0,
         "obs_num": 389.0
     },
     {
         "xml_id": "bgeigtr-rend2",
-        "obs_mean_onset": 86.052,
+        "obs_mean_onset": 88.13958333333334,
         "velocity": 83.0,
         "obs_num": 390.0
     },
     {
         "xml_id": "qbldfw-rend2",
-        "obs_mean_onset": 87.228,
+        "obs_mean_onset": 89.36458333333333,
         "velocity": 69.0,
         "obs_num": 391.0
     },
     {
         "xml_id": "oe5gbgn-rend2",
-        "obs_mean_onset": 87.253,
+        "obs_mean_onset": 89.390625,
         "velocity": 68.0,
         "obs_num": 392.0
     },
     {
         "xml_id": "n1ozqqyy-rend2",
-        "obs_mean_onset": 88.195,
+        "obs_mean_onset": 90.371875,
         "velocity": 87.0,
         "obs_num": 393.0
     },
     {
         "xml_id": "w1pf5u73-rend2",
-        "obs_mean_onset": 88.198,
+        "obs_mean_onset": 90.375,
         "velocity": 76.0,
         "obs_num": 394.0
     },
     {
         "xml_id": "u1306iho-rend2",
-        "obs_mean_onset": 88.207,
+        "obs_mean_onset": 90.384375,
         "velocity": 76.0,
         "obs_num": 395.0
     },
     {
         "xml_id": "o2jmd08-rend2",
-        "obs_mean_onset": 88.896,
+        "obs_mean_onset": 91.10208333333333,
         "velocity": 86.0,
         "obs_num": 396.0
     },
     {
         "xml_id": "t1mykzz4-rend2",
-        "obs_mean_onset": 88.88,
+        "obs_mean_onset": 91.08541666666668,
         "velocity": 87.0,
         "obs_num": 397.0
     },
     {
         "xml_id": "kqnpl7q-rend2",
-        "obs_mean_onset": 89.05,
+        "obs_mean_onset": 91.2625,
         "velocity": 103.0,
         "obs_num": 398.0
     },
     {
         "xml_id": "xvxl4sb-rend2",
-        "obs_mean_onset": 89.062,
+        "obs_mean_onset": 91.275,
         "velocity": 86.0,
         "obs_num": 399.0
     },
     {
         "xml_id": "h1pmpqut-rend2",
-        "obs_mean_onset": 89.072,
+        "obs_mean_onset": 91.28541666666668,
         "velocity": 81.0,
         "obs_num": 400.0
     },
     {
         "xml_id": "k1ys9nqj-rend2",
-        "obs_mean_onset": 89.554,
+        "obs_mean_onset": 91.78750000000001,
         "velocity": 103.0,
         "obs_num": 401.0
     },
     {
         "xml_id": "d1ffd6xx-rend2",
-        "obs_mean_onset": 89.581,
+        "obs_mean_onset": 91.815625,
         "velocity": 70.0,
         "obs_num": 402.0
     },
     {
         "xml_id": "q1vaqyw6-rend2",
-        "obs_mean_onset": 89.601,
+        "obs_mean_onset": 91.83645833333333,
         "velocity": 82.0,
         "obs_num": 403.0
     },
     {
         "xml_id": "e1nf0a4-rend2",
-        "obs_mean_onset": 90.421,
+        "obs_mean_onset": 92.690625,
         "velocity": 108.0,
         "obs_num": 404.0
     },
     {
         "xml_id": "k1wrhokh-rend2",
-        "obs_mean_onset": 90.421,
+        "obs_mean_onset": 92.690625,
         "velocity": 91.0,
         "obs_num": 405.0
     },
     {
         "xml_id": "o1c2diot-rend2",
-        "obs_mean_onset": 90.438,
+        "obs_mean_onset": 92.70833333333333,
         "velocity": 89.0,
         "obs_num": 406.0
     },
     {
         "xml_id": "i1aj1zqh-rend2",
-        "obs_mean_onset": 90.932,
+        "obs_mean_onset": 93.22291666666668,
         "velocity": 106.0,
         "obs_num": 407.0
     },
     {
         "xml_id": "ripac7s-rend2",
-        "obs_mean_onset": 90.968,
+        "obs_mean_onset": 93.26041666666667,
         "velocity": 84.0,
         "obs_num": 408.0
     },
     {
         "xml_id": "gusioht-rend2",
-        "obs_mean_onset": 90.964,
+        "obs_mean_onset": 93.25625000000001,
         "velocity": 89.0,
         "obs_num": 409.0
     },
     {
         "xml_id": "d1upjask-rend2",
-        "obs_mean_onset": 91.624,
+        "obs_mean_onset": 93.94375000000001,
         "velocity": 101.0,
         "obs_num": 410.0
     },
     {
         "xml_id": "lzcppd0-rend2",
-        "obs_mean_onset": 91.633,
+        "obs_mean_onset": 93.953125,
         "velocity": 93.0,
         "obs_num": 411.0
     },
     {
         "xml_id": "z1rl7s9g-rend2",
-        "obs_mean_onset": 91.789,
+        "obs_mean_onset": 94.11562500000001,
         "velocity": 105.0,
         "obs_num": 412.0
     },
     {
         "xml_id": "d1eyd9k5-rend2",
-        "obs_mean_onset": 91.833,
+        "obs_mean_onset": 94.16145833333333,
         "velocity": 92.0,
         "obs_num": 413.0
     },
     {
         "xml_id": "c1ebv38q-rend2",
-        "obs_mean_onset": 91.807,
+        "obs_mean_onset": 94.134375,
         "velocity": 84.0,
         "obs_num": 414.0
     },
     {
         "xml_id": "x13u72eh-rend2",
-        "obs_mean_onset": 92.304,
+        "obs_mean_onset": 94.65208333333334,
         "velocity": 96.0,
         "obs_num": 415.0
     },
     {
         "xml_id": "zgcas3o-rend2",
-        "obs_mean_onset": 92.305,
+        "obs_mean_onset": 94.653125,
         "velocity": 78.0,
         "obs_num": 416.0
     },
     {
         "xml_id": "abd6kdw-rend2",
-        "obs_mean_onset": 92.324,
+        "obs_mean_onset": 94.67291666666668,
         "velocity": 81.0,
         "obs_num": 417.0
     },
     {
         "xml_id": "l1jlt7fy-rend2",
-        "obs_mean_onset": 93.174,
+        "obs_mean_onset": 95.55833333333334,
         "velocity": 103.0,
         "obs_num": 418.0
     },
     {
         "xml_id": "q1t42yp8-rend2",
-        "obs_mean_onset": 93.164,
+        "obs_mean_onset": 95.54791666666668,
         "velocity": 87.0,
         "obs_num": 419.0
     },
     {
         "xml_id": "wz5aa03-rend2",
-        "obs_mean_onset": 93.184,
+        "obs_mean_onset": 95.56875000000001,
         "velocity": 89.0,
         "obs_num": 420.0
     },
     {
         "xml_id": "n1ydspx5-rend2",
-        "obs_mean_onset": 93.66,
+        "obs_mean_onset": 96.06458333333333,
         "velocity": 107.0,
         "obs_num": 421.0
     },
     {
         "xml_id": "u5k5yx4-rend2",
-        "obs_mean_onset": 93.662,
+        "obs_mean_onset": 96.06666666666668,
         "velocity": 91.0,
         "obs_num": 422.0
     },
     {
         "xml_id": "lae8yyd-rend2",
-        "obs_mean_onset": 93.682,
+        "obs_mean_onset": 96.0875,
         "velocity": 91.0,
         "obs_num": 423.0
     },
     {
         "xml_id": "e1evzu5o-rend2",
-        "obs_mean_onset": 94.5,
+        "obs_mean_onset": 96.93958333333333,
         "velocity": 111.0,
         "obs_num": 424.0
     },
     {
         "xml_id": "t1p9r8oe-rend2",
-        "obs_mean_onset": 94.51,
+        "obs_mean_onset": 96.95,
         "velocity": 94.0,
         "obs_num": 425.0
     },
     {
         "xml_id": "f4rp0tq-rend2",
-        "obs_mean_onset": 94.532,
+        "obs_mean_onset": 96.97291666666668,
         "velocity": 93.0,
         "obs_num": 426.0
     },
     {
         "xml_id": "j20oz5l-rend2",
-        "obs_mean_onset": 95.016,
+        "obs_mean_onset": 97.47708333333333,
         "velocity": 115.0,
         "obs_num": 427.0
     },
     {
         "xml_id": "n36q88z-rend2",
-        "obs_mean_onset": 95.022,
+        "obs_mean_onset": 97.48333333333334,
         "velocity": 99.0,
         "obs_num": 428.0
     },
     {
         "xml_id": "v1mgoblz-rend2",
-        "obs_mean_onset": 95.03,
+        "obs_mean_onset": 97.49166666666668,
         "velocity": 97.0,
         "obs_num": 429.0
     },
     {
         "xml_id": "p1eqou1p-rend2",
-        "obs_mean_onset": 95.871,
+        "obs_mean_onset": 98.36770833333333,
         "velocity": 113.0,
         "obs_num": 430.0
     },
     {
         "xml_id": "p1oa3nf1-rend2",
-        "obs_mean_onset": 95.877,
+        "obs_mean_onset": 98.37395833333334,
         "velocity": 108.0,
         "obs_num": 431.0
     },
     {
         "xml_id": "d1dhon0t-rend2",
-        "obs_mean_onset": 95.876,
+        "obs_mean_onset": 98.37291666666667,
         "velocity": 110.0,
         "obs_num": 432.0
     },
     {
         "xml_id": "ykvpg0t-rend2",
-        "obs_mean_onset": 95.894,
+        "obs_mean_onset": 98.39166666666668,
         "velocity": 99.0,
         "obs_num": 433.0
     },
     {
         "xml_id": "r75zmjd-rend2",
-        "obs_mean_onset": 96.418,
+        "obs_mean_onset": 98.9375,
         "velocity": 108.0,
         "obs_num": 434.0
     },
     {
         "xml_id": "a11aboh8-rend2",
-        "obs_mean_onset": 96.418,
+        "obs_mean_onset": 98.9375,
         "velocity": 101.0,
         "obs_num": 435.0
     },
     {
         "xml_id": "q1chem6d-rend2",
-        "obs_mean_onset": 96.442,
+        "obs_mean_onset": 98.9625,
         "velocity": 94.0,
         "obs_num": 436.0
     },
     {
         "xml_id": "fs91dhp-rend2",
-        "obs_mean_onset": 96.429,
+        "obs_mean_onset": 98.94895833333334,
         "velocity": 93.0,
         "obs_num": 437.0
     },
     {
         "xml_id": "hmht5q0-rend2",
-        "obs_mean_onset": 97.254,
+        "obs_mean_onset": 99.80833333333334,
         "velocity": 100.0,
         "obs_num": 438.0
     },
     {
         "xml_id": "j1qxjmnz-rend2",
-        "obs_mean_onset": 97.282,
+        "obs_mean_onset": 99.8375,
         "velocity": 83.0,
         "obs_num": 439.0
     },
     {
         "xml_id": "inw6kpl-rend2",
-        "obs_mean_onset": 97.27,
+        "obs_mean_onset": 99.825,
         "velocity": 83.0,
         "obs_num": 440.0
     },
     {
         "xml_id": "k113jd8y-rend2",
-        "obs_mean_onset": 97.254,
+        "obs_mean_onset": 99.80833333333334,
         "velocity": 89.0,
         "obs_num": 441.0
     },
     {
         "xml_id": "ao7r82n-rend2",
-        "obs_mean_onset": 97.942,
+        "obs_mean_onset": 100.525,
         "velocity": 91.0,
         "obs_num": 442.0
     },
     {
         "xml_id": "o1grtptb-rend2",
-        "obs_mean_onset": 97.962,
+        "obs_mean_onset": 100.54583333333334,
         "velocity": 84.0,
         "obs_num": 443.0
     },
     {
         "xml_id": "f11fziuw-rend2",
-        "obs_mean_onset": 97.939,
+        "obs_mean_onset": 100.52187500000001,
         "velocity": 88.0,
         "obs_num": 444.0
     },
     {
         "xml_id": "fv67jjb-rend2",
-        "obs_mean_onset": 97.947,
+        "obs_mean_onset": 100.53020833333334,
         "velocity": 89.0,
         "obs_num": 445.0
     },
     {
         "xml_id": "y18xc252-rend2",
-        "obs_mean_onset": 98.928,
+        "obs_mean_onset": 101.55208333333334,
         "velocity": 91.0,
         "obs_num": 446.0
     },
     {
         "xml_id": "h7pzzb4-rend2",
-        "obs_mean_onset": 98.932,
+        "obs_mean_onset": 101.55625,
         "velocity": 83.0,
         "obs_num": 447.0
     },
     {
         "xml_id": "a1lbb5ic-rend2",
-        "obs_mean_onset": 99.628,
+        "obs_mean_onset": 102.28125,
         "velocity": 114.0,
         "obs_num": 448.0
     },
     {
         "xml_id": "q35di1d-rend2",
-        "obs_mean_onset": 99.637,
+        "obs_mean_onset": 102.290625,
         "velocity": 112.0,
         "obs_num": 449.0
     },
     {
         "xml_id": "ih3shkb-rend2",
-        "obs_mean_onset": 99.648,
+        "obs_mean_onset": 102.30208333333334,
         "velocity": 108.0,
         "obs_num": 450.0
     },
     {
         "xml_id": "q1b3n1gm-rend2",
-        "obs_mean_onset": 99.648,
+        "obs_mean_onset": 102.30208333333334,
         "velocity": 103.0,
         "obs_num": 451.0
     },
     {
         "xml_id": "im0hpl0-rend2",
-        "obs_mean_onset": 99.644,
+        "obs_mean_onset": 102.29791666666668,
         "velocity": 104.0,
         "obs_num": 452.0
     },
     {
         "xml_id": "wq3tesc-rend2",
-        "obs_mean_onset": 100.496,
+        "obs_mean_onset": 103.18541666666667,
         "velocity": 116.0,
         "obs_num": 453.0
     },
     {
         "xml_id": "j1udahp7-rend2",
-        "obs_mean_onset": 100.501,
+        "obs_mean_onset": 103.190625,
         "velocity": 112.0,
         "obs_num": 454.0
     },
     {
         "xml_id": "oplkixu-rend2",
-        "obs_mean_onset": 100.513,
+        "obs_mean_onset": 103.203125,
         "velocity": 110.0,
         "obs_num": 455.0
     },
     {
         "xml_id": "y13sfng6-rend2",
-        "obs_mean_onset": 100.513,
+        "obs_mean_onset": 103.203125,
         "velocity": 107.0,
         "obs_num": 456.0
     },
     {
         "xml_id": "x1997ydp-rend2",
-        "obs_mean_onset": 100.515,
+        "obs_mean_onset": 103.20520833333335,
         "velocity": 107.0,
         "obs_num": 457.0
     },
     {
         "xml_id": "t1r7cavu-rend2",
-        "obs_mean_onset": 101.032,
+        "obs_mean_onset": 103.74375,
         "velocity": 120.0,
         "obs_num": 458.0
     },
     {
         "xml_id": "d5avh83-rend2",
-        "obs_mean_onset": 101.044,
+        "obs_mean_onset": 103.75625000000001,
         "velocity": 114.0,
         "obs_num": 459.0
     },
     {
         "xml_id": "fal6wna-rend2",
-        "obs_mean_onset": 101.047,
+        "obs_mean_onset": 103.759375,
         "velocity": 113.0,
         "obs_num": 460.0
     },
     {
         "xml_id": "pril1ne-rend2",
-        "obs_mean_onset": 101.041,
+        "obs_mean_onset": 103.753125,
         "velocity": 109.0,
         "obs_num": 461.0
     },
     {
         "xml_id": "q68ka6w-rend2",
-        "obs_mean_onset": 101.046,
+        "obs_mean_onset": 103.75833333333334,
         "velocity": 107.0,
         "obs_num": 462.0
     },
     {
         "xml_id": "l1hf9sc-rend2",
-        "obs_mean_onset": 101.889,
+        "obs_mean_onset": 104.63645833333335,
         "velocity": 115.0,
         "obs_num": 463.0
     },
     {
         "xml_id": "w1txm8tp-rend2",
-        "obs_mean_onset": 101.932,
+        "obs_mean_onset": 104.68125,
         "velocity": 102.0,
         "obs_num": 464.0
     },
     {
         "xml_id": "s13azi2h-rend2",
-        "obs_mean_onset": 101.936,
+        "obs_mean_onset": 104.68541666666667,
         "velocity": 100.0,
         "obs_num": 465.0
     },
     {
         "xml_id": "k1ud4aeb-rend2",
-        "obs_mean_onset": 102.284,
+        "obs_mean_onset": 105.04791666666668,
         "velocity": 104.0,
         "obs_num": 466.0
     },
     {
         "xml_id": "joynx6z-rend2",
-        "obs_mean_onset": 102.37,
+        "obs_mean_onset": 105.1375,
         "velocity": 103.0,
         "obs_num": 467.0
     },
     {
         "xml_id": "ttfd0in-rend2",
-        "obs_mean_onset": 102.504,
+        "obs_mean_onset": 105.27708333333335,
         "velocity": 101.0,
         "obs_num": 468.0
     },
     {
         "xml_id": "n8s2bp7-rend2",
-        "obs_mean_onset": 102.538,
+        "obs_mean_onset": 105.3125,
         "velocity": 85.0,
         "obs_num": 469.0
     },
     {
         "xml_id": "k1kur0gg-rend2",
-        "obs_mean_onset": 102.547,
+        "obs_mean_onset": 105.321875,
         "velocity": 69.0,
         "obs_num": 470.0
     },
     {
         "xml_id": "s17tbkkh-rend2",
-        "obs_mean_onset": 103.482,
+        "obs_mean_onset": 106.29583333333335,
         "velocity": 96.0,
         "obs_num": 471.0
     },
     {
         "xml_id": "l126c3go-rend2",
-        "obs_mean_onset": 103.512,
+        "obs_mean_onset": 106.32708333333335,
         "velocity": 82.0,
         "obs_num": 472.0
     },
     {
         "xml_id": "voynmr6-rend2",
-        "obs_mean_onset": 103.516,
+        "obs_mean_onset": 106.33125,
         "velocity": 69.0,
         "obs_num": 473.0
     },
     {
         "xml_id": "i1g7l136-rend2",
-        "obs_mean_onset": 103.501,
+        "obs_mean_onset": 106.315625,
         "velocity": 78.0,
         "obs_num": 474.0
     },
     {
         "xml_id": "d101kzqf-rend2",
-        "obs_mean_onset": 103.792,
+        "obs_mean_onset": 106.61875,
         "velocity": 95.0,
         "obs_num": 475.0
     },
     {
         "xml_id": "od3yx2-rend2",
-        "obs_mean_onset": 104.287,
+        "obs_mean_onset": 107.134375,
         "velocity": 81.0,
         "obs_num": 476.0
     },
     {
         "xml_id": "ebeyf0y-rend2",
-        "obs_mean_onset": 104.301,
+        "obs_mean_onset": 107.14895833333334,
         "velocity": 75.0,
         "obs_num": 477.0
     },
     {
         "xml_id": "p1grfz8v-rend2",
-        "obs_mean_onset": 104.305,
+        "obs_mean_onset": 107.153125,
         "velocity": 70.0,
         "obs_num": 478.0
     }
